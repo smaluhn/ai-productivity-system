@@ -1,0 +1,19 @@
+# Google Calendar credentials and tokens
+*.keys.json
+*-oauth.keys.json
+token.json
+credentials.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
