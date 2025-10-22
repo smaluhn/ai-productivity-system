@@ -45,6 +45,23 @@
   - Testing plan for staging environment
   - Timeline for completion
 
+### 4. AkunIndo Hiring - Sales & Marketing Staff
+- **Positions Needed**:
+  - Sales person (Door-to-door)
+  - Sales person (Cold calls)
+  - Marketing person (Instagram/Facebook)
+- **Discussion Points**:
+  - Does anyone on the team know candidates?
+  - Can team help share job postings on social media?
+  - Tag Simon in social media posts
+- **Related**: See AkunIndo TODO.md for hiring requirements
+
+### 5. FunDe.Fi Mechanics Clarification
+- **Update**: Simon's discussion with Thuy
+- **Task**: Clarify mechanics for team
+- **Action**: Update Anjelito with latest decisions
+- **Related**: See fundefi-spec-docs OPEN-QUESTIONS.md
+
 ---
 
 ## Action Items
@@ -52,6 +69,8 @@
 - [ ] Review and provide feedback on fundefi-spec-docs
 - [ ] Assign owner for Printora AI-Design staging deployment
 - [ ] Set timeline for staging deployment completion
+- [ ] Team to share AkunIndo job postings on social media (tag Simon)
+- [ ] Update Anjelito on FunDe.Fi mechanics after Thuy discussion
 
 ---
 
