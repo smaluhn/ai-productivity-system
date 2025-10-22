@@ -8,11 +8,25 @@ This document outlines the daily and weekly routines for productivity and planni
 
 ## Daily Workflow
 
-### Morning Routine
+### Morning Routine (Start of Day)
+**Receive morning schedule message from Claude with:**
+- Today's full schedule
+- **MIT (Most Important Task)** - The ONE thing to finish by 11am (or latest lunch)
+- Top 3-5 tasks for the day
+- Meeting times and prep needed
+
+**Then:**
 - [ ] Review today's schedule (check `daily-schedule-YYYY-MM-DD.md`)
+- [ ] **Tackle MIT FIRST** - Finish by 11am or lunch
 - [ ] Check GitHub Projects boards for assigned tasks
 - [ ] Process Obsidian inbox folder (move notes to proper locations)
 - [ ] Check calendar for meetings and full-day tasks
+
+**MIT Philosophy:**
+- **ONE task** that would make the day a success
+- **Finish by 11am or lunch** (morning energy is highest)
+- **Tackle first** before checking email/messages
+- Examples: Close a sale, finish feature, make key decision
 
 ### During the Day
 - [ ] Move GitHub Project cards to "In Progress" when starting work
@@ -48,21 +62,44 @@ This document outlines the daily and weekly routines for productivity and planni
 ```markdown
 # Daily Schedule - [Date]
 
-**MIT (Most Important Task)**: [Single most important thing]
+**MIT (Most Important Task)**: [Single most important thing - finish by 11am or lunch]
 
-## Morning
-- [ ] Task 1
+## Morning (High Energy - Tackle MIT First!)
+- [ ] **MIT**: [Most important task]
 - [ ] Task 2
+- [ ] Task 3
 
 ## Afternoon
 - [ ] Meeting at [time]
-- [ ] Task 3
+- [ ] Task 4
 
 ## Evening
-- [ ] Task 4
+- [ ] Task 5
 - [ ] 5pm: Daily review & tomorrow planning
 - [ ] 9:30pm: Wind down
 - [ ] 10:00pm: Bedtime
+```
+
+**Claude Code Morning Message Format:**
+```
+Good morning, Simon! ☀️
+
+Here's your schedule for [Date]:
+
+🎯 **MIT (Most Important Task)**: [Task] - Finish by 11am or lunch!
+
+📋 Top Tasks:
+1. [MIT - tackle first!]
+2. [Task 2]
+3. [Task 3]
+
+📅 Meetings:
+- [Time]: [Meeting]
+- [Time]: [Meeting]
+
+⚡ Focus: Tackle your MIT before anything else!
+
+Full schedule: /Users/simon/git/simon/productivity-system/daily-schedule-[date].md
 ```
 
 ### Evening Wind-Down (9:30 PM)
