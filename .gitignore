@@ -27,3 +27,9 @@ Thumbs.db
 
 # Obsidian
 .obsidian/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
