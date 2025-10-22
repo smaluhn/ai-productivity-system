@@ -12,7 +12,6 @@
 ---
 
 ## 📊 Quick Links
-
 ### Time-based
 - **Daily:** [daily/](daily/) - Daily MIT, tasks, and notes
 - **Weekly:** [weekly/](weekly/) - Weekly goals and reviews
@@ -95,3 +94,5 @@
 ---
 
 **Last Updated:** 2025-10-20
+
+https://youtube.com/shorts/N8V-QeL6UTg?si=0jtdfpxhhknQBcnz
