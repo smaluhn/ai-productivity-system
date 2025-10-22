@@ -167,8 +167,9 @@ Full schedule: /Users/simon/git/simon/productivity-system/daily-schedule-[date].
 
 | Time | Reminder | Action |
 |------|----------|--------|
-| **Morning** | Daily schedule review | Check today's tasks and meetings |
-| **5:00-6:00 PM** | Evening planning | Review EOD, plan tomorrow |
+| **Morning (start of day)** | Morning schedule with MIT | Receive schedule, tackle MIT first |
+| **11:00 AM or Lunch** | MIT deadline | MIT should be finished by now |
+| **5:00-6:00 PM** | Evening planning | Review EOD, plan tomorrow, identify tomorrow's MIT |
 | **9:30 PM** | Wind down | Stop work, light stretching, meditation |
 | **10:00 PM** | Bedtime | Lights out |
 | **Monday AM** | Week planning | Set weekly goals, assign tasks |
@@ -273,8 +274,10 @@ See [GITHUB-PROJECTS-SETUP.md](GITHUB-PROJECTS-SETUP.md) for detailed GitHub Pro
 ## Success Metrics
 
 **Daily:**
-- ✅ MIT completed
+- ✅ MIT completed by 11am or lunch
+- ✅ Morning schedule received and reviewed
 - ✅ Evening planning done before 6 PM
+- ✅ Tomorrow's MIT identified
 - ✅ Wind down by 9:30 PM
 - ✅ In bed before 10:00 PM
 

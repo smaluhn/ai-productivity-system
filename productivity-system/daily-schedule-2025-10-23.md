@@ -6,18 +6,27 @@
 
 ---
 
-## Morning Tasks
+## 🎯 MIT (Most Important Task)
+**FINISH BY 11AM OR LUNCH**
+
+### croffee.de Domain + Stripe Setup for Printora
+- [ ] Register croffee.de through partner.http.net
+- [ ] Log in to Stripe account
+- [ ] Change Stripe account configuration to Printora
+- [ ] Verify setup is complete
+
+**Why this is MIT**: Unblocks Printora launch, critical business setup
+**Estimated time**: 30-45 minutes
+**Do this FIRST** before checking messages or other tasks!
+
+---
+
+## Morning Tasks (After MIT)
 
 ### Before 10am
 - [ ] **Follow up with MWX re Credits**
   - Send message/email regarding credits status
   - Priority: High
-
-- [ ] **MIT (Most Important Task): croffee.de domain + Stripe setup**
-  - Register croffee.de through partner.http.net
-  - Log in to Stripe
-  - Change Stripe account to Printora
-  - Priority: Urgent
 
 ### 10:00 AM - Tukang (Handyman) - Starlink Installation
 - **Location**: Home
