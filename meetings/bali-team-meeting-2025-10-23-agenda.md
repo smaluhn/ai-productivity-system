@@ -7,8 +7,21 @@
 
 ## Agenda
 
-### 1. Review Printora Spec-Docs Repository
-- **Repository**: https://github.com/favosapp/printora-spec-docs
+### 1. Spec-Docs Template & System Introduction
+- **Templates Location**: `/Users/simon/git/simon/templates/`
+  - `spec-docs-megaprompt.md` - Comprehensive prompt for generating spec-docs
+  - `spec-docs-template.md` - Standard structure and sections
+- **Example**: AkunIndo spec-docs (production-grade reference)
+  - Repository: https://github.com/sudosimonglitch/akunindo-spec-docs
+  - 11 technical documents + roadmap + CLAUDE.md
+- **Discussion Points**:
+  - Explain spec-docs system and benefits
+  - Show template structure
+  - How to use megaprompt with Claude
+  - When to create spec-docs for new projects
+
+### 2. Review Printora Spec-Docs Repository
+- **Repository**: https://github.com/zee-mon/printora-spec-docs
 - **Status**: Complete documentation created (17 files, 7,321 lines)
 - **Contents**:
   - Complete technical architecture decisions
@@ -22,7 +35,7 @@
   - Identify any missing sections or updates needed
   - Ensure team alignment on technical decisions
 
-### 2. Review FunDe.Fi Spec-Docs Repository
+### 3. Review FunDe.Fi Spec-Docs Repository
 - **Repository**: https://github.com/favosapp/fundefi-spec-docs
 - **Status**: Foundational documentation created (8 files)
 - **Contents**:
@@ -35,7 +48,7 @@
   - Address open questions (blockchain selection, audit partner, milestone verification)
   - Plan remaining technical documentation (10 docs pending)
 
-### 3. Printora AI-Design: Deploy to Staging Server
+### 4. Printora AI-Design: Deploy to Staging Server
 - **Objective**: Make AI-Design feature work on staging server online
 - **Current Status**: Frontend MVP ~80% complete
 - **Task**: Deploy and test AI design generation on staging environment
@@ -45,7 +58,7 @@
   - Testing plan for staging environment
   - Timeline for completion
 
-### 4. AkunIndo Hiring - Sales & Marketing Staff
+### 5. AkunIndo Hiring - Sales & Marketing Staff
 - **Positions Needed**:
   - Sales person (Door-to-door)
   - Sales person (Cold calls)
@@ -56,7 +69,7 @@
   - Tag Simon in social media posts
 - **Related**: See AkunIndo TODO.md for hiring requirements
 
-### 5. FunDe.Fi Mechanics Clarification
+### 6. FunDe.Fi Mechanics Clarification
 - **Update**: Simon's discussion with Thuy
 - **Task**: Clarify mechanics for team
 - **Action**: Update Anjelito with latest decisions

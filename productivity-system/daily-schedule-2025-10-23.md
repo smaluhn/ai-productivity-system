@@ -45,13 +45,19 @@
 
 **Agenda**:
 
-#### 1. Review Printora Spec-Docs (15 min)
+#### 1. Spec-Docs Template & System Introduction (10 min)
+- Show team the spec-docs-megaprompt and spec-docs-template
+- Review AkunIndo spec-docs as example
+- Explain benefits and when to use for new projects
+- How to generate with Claude
+
+#### 2. Review Printora Spec-Docs (10 min)
 - Repository: https://github.com/zee-mon/printora-spec-docs
 - Complete documentation review
 - Team alignment on technical decisions
 - Identify any missing sections
 
-#### 2. Review FunDe.Fi Spec-Docs (15 min)
+#### 3. Review FunDe.Fi Spec-Docs (10 min)
 - Repository: https://github.com/zee-mon/fundefi-spec-docs
 - Discuss ve(3,3) tokenomics implementation
 - Address open questions:
@@ -60,13 +66,13 @@
   - Milestone verification mechanism
 - Plan remaining 10 technical documents
 
-#### 3. Printora AI-Design Staging Deployment (10 min)
+#### 4. Printora AI-Design Staging Deployment (10 min)
 - Make AI-Design feature work on staging server online
 - Current status update
 - Blockers or technical issues
 - Assign owner and set timeline
 
-#### 4. AkunIndo Hiring Discussion (15 min)
+#### 5. AkunIndo Hiring Discussion (15 min)
 - **Need to find**:
   - Sales person (Door-to-door)
   - Sales person (Cold calls)
@@ -74,12 +80,12 @@
 - **Action**: Ask team if they know anyone
 - **Action**: Team to share on social media (tag Simon)
 
-#### 5. FunDe.Fi Mechanics Clarification (10 min)
+#### 6. FunDe.Fi Mechanics Clarification (10 min)
 - **Update from Simon**: Discussion with Thuy about mechanics
 - Clarify any questions from team
 - Update Anjelito on latest decisions
 
-**Total Duration**: ~65 minutes (1 hour 5 min)
+**Total Duration**: ~75 minutes (1 hour 15 min)
 
 **Resources**:
 - Meeting agenda: /Users/simon/git/simon/meetings/bali-team-meeting-2025-10-23-agenda.md
