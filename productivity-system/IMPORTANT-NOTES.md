@@ -29,7 +29,7 @@ gh repo create <name> --public --source=. --remote=origin --push
 |---------|---------------|-------|
 | **Printora** | favosapp | (favosapp email) |
 | **FunDe.Fi** | favosapp | (favosapp email) |
-| **AkunIndo** | ? | (check with team) |
+| **AkunIndo** | sudosimonglitch | simonsmaluhn@gmail.com |
 | **Favos App** | favosapp | (favosapp email) |
 | **Personal/Simon projects** | sudosimonglitch | simonsmaluhn@gmail.com |
 
