@@ -152,6 +152,7 @@ See individual project TODO.md files and project spec-docs OPEN-QUESTIONS.md for
 ---
 
 **Related Documents**:
+- [WORKFLOW.md](WORKFLOW.md) - Daily/weekly workflows (EOD/EOW reviews, reminders)
 - [INBOX-SOURCES.md](INBOX-SOURCES.md) - All inbox sources and processing
-- [WORKFLOW.md](WORKFLOW.md) - Daily/weekly workflows
+- [GITHUB-PROJECTS-SETUP.md](GITHUB-PROJECTS-SETUP.md) - GitHub Projects board setup
 - [CALENDAR-CONFIG.md](CALENDAR-CONFIG.md) - Calendar setup
