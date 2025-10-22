@@ -23,17 +23,32 @@ gh repo create <name> --private --source=. --remote=origin --push
 gh repo create <name> --public --source=. --remote=origin --push
 ```
 
-## GitHub Accounts by Project
+## GitHub Organizations & Accounts
 
-| Project | GitHub Account | Email |
-|---------|---------------|-------|
-| **Printora** | favosapp | (favosapp email) |
-| **FunDe.Fi** | favosapp | (favosapp email) |
-| **AkunIndo** | sudosimonglitch | simonsmaluhn@gmail.com |
-| **Favos App** | favosapp | (favosapp email) |
-| **Personal/Simon projects** | sudosimonglitch | simonsmaluhn@gmail.com |
+### Organizations
+| Organization | Projects | URL |
+|-------------|----------|-----|
+| **Printora** | Printora AI POD platform | https://github.com/Printora |
+| **FUNDEdotFI** | FunDe.Fi DeFi launchpad | https://github.com/FUNDEdotFI |
+| **FavosApp** | Favos App social loyalty | https://github.com/FavosApp |
+| **DiverseProjects** | RealPrice, other projects | https://github.com/DiverseProjects |
+| **Favourse** | (Favos-related) | https://github.com/Favourse |
+| **Favorsid** | favors.id related repos | https://github.com/Favorsid |
+| **sudosimonglitch** | AkunIndo, personal projects | https://github.com/sudosimonglitch |
 
-**Current Active**: favosapp (switched via `gh auth switch -u favosapp`)
+### Personal Accounts
+- **sudosimonglitch** (Simon's personal) - simonsmaluhn@gmail.com
+- **zee-mon** (formerly favosapp, shared with Kevin) - Used primarily for Vercel deployments
+
+### GitHub Projects Boards
+| Project | Board URL |
+|---------|-----------|
+| **Printora** | https://github.com/orgs/Printora/projects/1 |
+| **FunDe.Fi** | https://github.com/orgs/FUNDEdotFI/projects/1 |
+| **FavosApp** | (to be created) |
+| **AkunIndo** | (using TODO.md for now) |
+
+**Current Active Account**: zee-mon (switched via `gh auth switch -u zee-mon`)
 
 ## Calendar Configuration
 
@@ -97,9 +112,14 @@ See [INBOX-SOURCES.md](INBOX-SOURCES.md) for detailed breakdown.
 - **Text files**: Move to proper notes system
 
 ### Task Management
-- **TODO.md**: In each project folder (committed to Git)
-- **Central system**: Links to project TODOs
-- **Sync**: Git-based, accessible on mobile via Obsidian
+- **GitHub Projects**: Primary team task management (Kanban boards per org)
+  - Printora: https://github.com/orgs/Printora/projects/1
+  - FunDe.Fi: https://github.com/orgs/FUNDEdotFI/projects/1
+  - Weekly planning, sprint tracking, team collaboration
+- **TODO.md**: Personal task tracking in each project folder (committed to Git)
+  - High-level project notes, offline access
+  - Synced via Git, accessible on mobile via Obsidian
+- **ClickUp**: Being phased out in favor of GitHub Projects
 
 ## Technical Preferences
 
