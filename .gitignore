@@ -4,6 +4,16 @@
 token.json
 credentials.json
 
+# Fireflies.ai
+.fireflies-cache/
+fireflies-token.json
+fireflies-webhook.log
+
+# Environment and API keys
+.env
+.env.local
+*.key
+
 # OS files
 .DS_Store
 Thumbs.db
