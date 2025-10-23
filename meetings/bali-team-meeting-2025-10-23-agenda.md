@@ -77,18 +77,26 @@
   - Emission schedule mechanics
   - Integration with ve(3,3) tokenomics
 
-- **Multi-Chain Consideration** (New Context):
+- **Multi-Chain Consideration & Tokenised Assets**:
   - HIC invested $250K in joinn.io (5% at $10M valuation)
   - HIC bullish on Polkadot for tokenised assets
-  - Should FunDe.Fi consider multi-chain? (Currently deciding between Ethereum/Arbitrum/Optimism/Base/Polygon)
-  - Polkadot as additional option?
+  - **DECISION**: Add Polkadot to blockchain evaluation
+  - New options: Ethereum/Arbitrum/Optimism/Base/Polygon/**Polkadot**
+
+  - **Tokenised Assets Tech**:
+    - Josh already developed the tech for tokenised assets
+    - Waiting for Josh to come back to us about this
+    - Could be critical differentiator for FunDe.Fi
+    - Integration with ve(3,3) tokenomics?
 
 - **Action Items**:
   - Discuss mechanics internally with team
   - Create clear documentation
   - Schedule follow-up with Anjelito to explain system
   - Update spec-docs with detailed emission mechanics
-  - Consider multi-chain strategy implications (HIC interest)
+  - **Add Polkadot to blockchain evaluation** (6th option)
+  - Follow up with Josh re tokenised assets tech status
+  - Explore tokenised assets integration with ve(3,3) model
 
 - **Update**: Simon's discussion with Thuy (if completed)
 - **Related**: See fundefi-spec-docs OPEN-QUESTIONS.md and ROADMAP.md (tokenomics section)
@@ -105,7 +113,9 @@
 - [ ] Create detailed documentation for FunDe.Fi emissions mechanics
 - [ ] Schedule follow-up with Anjelito to explain emissions system
 - [ ] Update fundefi-spec-docs with emission distribution details
-- [ ] Evaluate Polkadot as multi-chain option for FunDe.Fi (HIC interest)
+- [ ] **Add Polkadot to blockchain evaluation** for FunDe.Fi (6th option alongside ETH/Arbitrum/Optimism/Base/Polygon)
+- [ ] Follow up with Josh re tokenised assets tech (waiting for his response)
+- [ ] Explore how tokenised assets integrate with ve(3,3) tokenomics
 - [ ] Kevin: Continue Stripe sandbox setup for Printora
 - [ ] Simon: Follow up with HIC re investment/partnership (Polkadot, tokenised assets)
 

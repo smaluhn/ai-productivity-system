@@ -33,16 +33,23 @@
   - Discuss potential collaboration
   - Explore investment opportunities
   - Multi-chain strategy alignment (Polkadot + others)
+  - Tokenised assets discussion
 
 - [ ] **Define joinn.to partnership scope**
   - What services/products will we use from joinn.to?
   - Integration possibilities with our projects?
   - Timeline for collaboration
 
-- [ ] **Research Polkadot tokenised assets**
-  - Why HIC is bullish on Polkadot
-  - Potential for FunDe.Fi or other projects
-  - Multi-chain strategy considerations
+- [ ] **Add Polkadot to FunDe.Fi blockchain evaluation**
+  - ✅ DECISION MADE: Add as 6th option
+  - Compare: Ethereum/Arbitrum/Optimism/Base/Polygon/Polkadot
+  - Evaluate tokenised assets capabilities
+
+- [ ] **Follow up with Josh re tokenised assets tech**
+  - Josh already developed the tech
+  - Waiting for him to come back to us
+  - Could be critical differentiator for FunDe.Fi
+  - How does it integrate with ve(3,3) tokenomics?
 
 ---
 
@@ -68,12 +75,23 @@
 
 ---
 
-## Related Projects
+## Related Projects & People
 
-Could impact:
-- **FunDe.Fi**: Multi-chain considerations, tokenomics
-- **Favos App**: Potential integration?
-- **General Strategy**: Multi-chain vs single-chain decision
+### FunDe.Fi Impact
+- **Blockchain Decision**: Add Polkadot as 6th evaluation option
+- **Tokenomics**: ve(3,3) model integration with tokenised assets
+- **Differentiator**: Tokenised assets could be unique selling point
+
+### Key People
+- **HIC**: Investor, multi-chain expertise, Polkadot bullish
+- **Ryan Au (joinn.to)**: Long-time connection, partnership confirmed
+- **Josh**: Has tokenised assets tech already developed, waiting for update
+- **Anjelito**: Needs clarity on weekly emissions system
+
+### Strategic Alignment
+- HIC's Polkadot interest + Josh's tokenised assets tech = potential unique positioning
+- Could differentiate FunDe.Fi from other launchpads
+- Multi-chain approach reduces platform risk
 
 ---
 
