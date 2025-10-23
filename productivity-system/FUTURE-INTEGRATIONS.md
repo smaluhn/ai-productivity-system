@@ -192,9 +192,51 @@ Start with **Make.com** (Option D) for quick MVP, then migrate to **n8n** (Optio
 
 ---
 
+### Reclaim.ai Integration
+
+**Status**: Currently Using (Need Integration)
+**Priority**: Medium
+**Timeline**: Q4 2025
+
+**Current State:**
+- Already using Reclaim.ai for meeting scheduling
+- Website: https://reclaim.ai/integrations
+- API Docs: https://www.apirefs.com/apps/reclaim-ai
+
+**Integration Needed:**
+1. **Sync Reclaim.ai scheduling links to productivity system**
+   - Auto-create tasks for scheduled meetings
+   - Prep reminders before meetings
+   - Post-meeting action item prompts
+
+2. **Smart Calendar Blocking**
+   - MIT time blocking (9am-12pm)
+   - Focus time protection
+   - Sync with GitHub Project deadlines
+
+3. **Meeting Analytics**
+   - Track meeting time per project
+   - Identify meeting overload
+   - Suggest calendar optimization
+
+**Reclaim.ai Features to Use:**
+- Smart 1:1s
+- Task time blocking
+- Scheduling links
+- Buffer time
+- No-meeting days
+
+**Implementation:**
+- [ ] Explore Reclaim.ai API
+- [ ] Build integration with calendar workflow
+- [ ] Auto-sync Reclaim.ai habits to GitHub tasks
+- [ ] Meeting → Action items extraction
+
+---
+
 ### Calendar → Tasks Auto-Creation
 
-**Status**: Partially Implemented (Google Calendar MCP)
+**Status**: Partially Implemented (Google Calendar MCP + Reclaim.ai)
 **Priority**: Medium
 **Timeline**: Q4 2025
 

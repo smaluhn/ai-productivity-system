@@ -38,12 +38,16 @@ gh repo create <name> --public --source=. --remote=origin --push
 
 ### Personal Accounts & Team Members
 - **sudosimonglitch** (Simon's personal) - simonsmaluhn@gmail.com
-- **zee-mon** (Kevin) - Used for Vercel deployments and development
+- **zee-mon** (formerly favosapp - shared account with Kevin) - Has admin access to all orgs
 - **mrfavi** (Eko) - Team member
 - **OneBigStar3** (Anjelito) - Team member, FunDe.Fi/Favos focus
 - **YosuaTriantara** (Yosua) - Team member
 
-**Note**: Simon uses sudosimonglitch for all personal work. zee-mon is Kevin's account.
+**Note**:
+- favosapp was renamed to **zee-mon** (same account, new name)
+- zee-mon has admin access to Printora, FUNDEdotFI, FavosApp, DiverseProjects orgs
+- Simon uses sudosimonglitch for personal work
+- zee-mon shared between Simon and Kevin for org management
 
 ### GitHub Projects Boards
 | Project | Board URL |
