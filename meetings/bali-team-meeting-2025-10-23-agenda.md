@@ -70,11 +70,19 @@
   - Job description and requirements
 - **Related**: See AkunIndo TODO.md for hiring requirements
 
-### 6. FunDe.Fi Mechanics Clarification
-- **Update**: Simon's discussion with Thuy
-- **Task**: Clarify mechanics for team
-- **Action**: Update Anjelito with latest decisions
-- **Related**: See fundefi-spec-docs OPEN-QUESTIONS.md
+### 6. FunDe.Fi Mechanics & Weekly Emissions System
+- **Critical Question from Anjelito**: Weekly emissions to campaigns/projects/token vaults
+  - How do weekly FAV token emissions get distributed?
+  - What percentage goes to campaigns vs projects vs token vaults?
+  - Emission schedule mechanics
+  - Integration with ve(3,3) tokenomics
+- **Action Items**:
+  - Discuss mechanics internally with team
+  - Create clear documentation
+  - Schedule follow-up with Anjelito to explain system
+  - Update spec-docs with detailed emission mechanics
+- **Update**: Simon's discussion with Thuy (if completed)
+- **Related**: See fundefi-spec-docs OPEN-QUESTIONS.md and ROADMAP.md (tokenomics section)
 
 ---
 
@@ -84,7 +92,11 @@
 - [ ] Assign owner for Printora AI-Design staging deployment
 - [ ] Set timeline for staging deployment completion
 - [ ] Team to share AkunIndo job postings on social media (tag Simon)
-- [ ] Update Anjelito on FunDe.Fi mechanics after Thuy discussion
+- [ ] **URGENT**: Design FunDe.Fi weekly emissions system (distribute to campaigns/projects/vaults)
+- [ ] Create detailed documentation for FunDe.Fi emissions mechanics
+- [ ] Schedule follow-up with Anjelito to explain emissions system
+- [ ] Update fundefi-spec-docs with emission distribution details
+- [ ] Kevin: Continue Stripe sandbox setup for Printora
 
 ---
 
