@@ -59,14 +59,15 @@
   - Timeline for completion
 
 ### 5. AkunIndo Hiring - Sales & Marketing Staff
-- **Positions Needed**:
+- **Positions Needed** (2-3 people total):
   - Sales person (Door-to-door)
   - Sales person (Cold calls)
   - Marketing person (Instagram/Facebook)
 - **Discussion Points**:
   - Does anyone on the team know candidates?
-  - Can team help share job postings on social media?
+  - **ACTION**: Team to share on social media looking for 2-3 people
   - Tag Simon in social media posts
+  - Job description and requirements
 - **Related**: See AkunIndo TODO.md for hiring requirements
 
 ### 6. FunDe.Fi Mechanics Clarification
