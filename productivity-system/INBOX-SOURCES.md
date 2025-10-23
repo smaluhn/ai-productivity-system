@@ -50,9 +50,19 @@
   - Target: Zero or near-zero files in Downloads
 
 ### 3. Digital Communication
-- [ ] **WhatsApp/Telegram** (Future integration)
-  - Via n8n, ChatGPT Agent Kit, or Claude API
-  - Forward important messages to inbox system
+- [ ] **WhatsApp/Telegram** (Future integration - HIGH PRIORITY)
+  - **Integration Options**:
+    - Option A: n8n workflow automation
+    - Option B: ChatGPT Agent Kit
+    - Option C: Claude API direct integration
+    - Option D: Make.com (Integromat)
+  - **Functionality Needed**:
+    - Forward important messages to inbox system
+    - Auto-extract action items from messages
+    - Create tasks in GitHub Projects from messages
+    - Daily digest of unread messages
+  - **Priority**: High (reduces manual WhatsApp checking)
+  - **Timeline**: Research and implement Q4 2025
 
 - [ ] **Fireflies.ai Meeting Transcriptions**
   - Already integrated (Python script available)

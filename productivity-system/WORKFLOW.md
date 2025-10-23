@@ -264,10 +264,27 @@ See [GITHUB-PROJECTS-SETUP.md](GITHUB-PROJECTS-SETUP.md) for detailed GitHub Pro
 - Process inbox sources
 - Create GitHub issues from TODO.md
 
-### Manual Review:
+### Manual Review (Current):
 - Email (until automated)
 - WhatsApp/Telegram (until automated)
 - Phone alarms (phasing out)
+
+### Future Automation (Planned):
+See [FUTURE-INTEGRATIONS.md](FUTURE-INTEGRATIONS.md) for detailed plans:
+- 🔴 **WhatsApp integration** (Q4 2025) - High priority
+  - Auto-extract action items from messages
+  - Daily digest of important conversations
+  - Integration with n8n or Make.com
+- 🟡 **Telegram bot** (Q4 2025) - Medium priority
+  - Command-based task creation
+  - Message forwarding to inbox
+- 🟡 **Email auto-processing** (Q1 2026) - Medium priority
+  - AI-powered categorization
+  - Action item extraction
+  - Inbox zero automation
+- 🟡 **Calendar → Task automation** (Q4 2025)
+  - Full-day "Free" events → auto-create TODOs
+  - Meeting action items extraction
 
 ---
 
