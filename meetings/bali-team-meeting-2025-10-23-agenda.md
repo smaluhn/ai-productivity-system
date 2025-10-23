@@ -1,11 +1,20 @@
 # Bali Team Meeting - October 23, 2025
 
-**Date**: 2025-10-23
-**Type**: Team Meeting
+**Date**: 2025-10-23 (Wednesday, 2:00 PM)
+**Duration**: ~90 minutes
+**Attendees**: Simon, Kevin, Eko, Yosua, (Anjelito for FunDe.Fi)
 
 ---
 
 ## Agenda
+
+### Misc / Infrastructure
+- **GitHub Projects**: Setup and overview for Printora, FunDe.Fi, and other projects
+  - How team will use boards for task tracking
+  - Daily standup via GitHub Projects
+  - Integration with spec-docs
+
+---
 
 ### 1. Spec-Docs Template & System Introduction
 - **Templates Location**: `/Users/simon/git/simon/templates/`
@@ -19,6 +28,8 @@
   - Show template structure
   - How to use megaprompt with Claude
   - When to create spec-docs for new projects
+
+---
 
 ### 2. Review Printora Spec-Docs Repository
 - **Repository**: https://github.com/zee-mon/printora-spec-docs
@@ -35,8 +46,10 @@
   - Identify any missing sections or updates needed
   - Ensure team alignment on technical decisions
 
+---
+
 ### 3. Review FunDe.Fi Spec-Docs Repository
-- **Repository**: https://github.com/favosapp/fundefi-spec-docs
+- **Repository**: https://github.com/zee-mon/fundefi-spec-docs
 - **Status**: Foundational documentation created (8 files)
 - **Contents**:
   - Project context and market analysis
@@ -48,17 +61,58 @@
   - Address open questions (blockchain selection, audit partner, milestone verification)
   - Plan remaining technical documentation (10 docs pending)
 
-### 4. Printora AI-Design: Deploy to Staging Server
+---
+
+## Printora Project
+
+### Printora AI-Design: Deploy to Staging Server (Kevin)
 - **Objective**: Make AI-Design feature work on staging server online
 - **Current Status**: Frontend MVP ~80% complete
-- **Task**: Deploy and test AI design generation on staging environment
+- **Assigned to**: Kevin
 - **Discussion Points**:
   - Current deployment status
   - Any blockers or technical issues
   - Testing plan for staging environment
   - Timeline for completion
 
-### 5. AkunIndo Hiring - Sales & Marketing Staff
+### Stripe Sandbox Setup for Staging/Dev (Kevin)
+- **Status**: Signed up for Stripe account, Kevin given access
+- **Assigned to**: Kevin
+- **Tasks**:
+  - Work on sandbox Stripe for Printora staging
+  - Testing sandbox integration
+  - Prepare for live Stripe setup
+- **Note**: Contact Stripe directly for setup assistance if needed
+
+### Sign Up to Fulfillment Services (Kevin)
+- **Assigned to**: Kevin (admin@printora.ai)
+- **Options to evaluate**: Printful, Printify, or Gelato
+- **Timeline**: POD decision needed by November 1
+- **Tasks**:
+  - Sign up to fulfillment service
+  - Order sample products from all three (if multiple)
+  - Compare quality, shipping time, pricing
+  - Prepare recommendation
+
+### Create Social Media Presence (Kevin)
+- **Assigned to**: Kevin (admin@printora.ai)
+- **Channels**: Twitter, Instagram, TikTok (at minimum)
+- **Purpose**: Prepare for beta launch
+- **Content**: Design examples, creator guidelines, early announcements
+
+---
+
+## AkunIndo Project
+
+### Optimize Mobile Layout (Kevin)
+- **Assigned to**: Kevin
+- **Current Status**: Layout improvements needed for mobile users
+- **Discussion Points**:
+  - Current mobile UX issues
+  - Priority fixes
+  - Timeline for completion
+
+### AkunIndo Hiring Discussion
 - **Positions Needed** (2-3 people total):
   - Sales person (Door-to-door)
   - Sales person (Cold calls)
@@ -70,56 +124,113 @@
   - Job description and requirements
 - **Related**: See AkunIndo TODO.md for hiring requirements
 
-### 6. FunDe.Fi Mechanics & Weekly Emissions System
-- **Critical Question from Anjelito**: Weekly emissions to campaigns/projects/token vaults
-  - How do weekly FAV token emissions get distributed?
-  - What percentage goes to campaigns vs projects vs token vaults?
-  - Emission schedule mechanics
+---
+
+## FunDe.Fi Project
+
+### FunDe.Fi Mechanics Clarification
+- **Critical Question**: Weekly emissions and launchpad adaptation
+- **Key Discussion**:
+  - **How to adapt DEX emission model to Launchpad model?**
+  - Weekly emissions to campaigns/projects/token vaults (Anjelito's question)
+  - What percentage distribution?
   - Integration with ve(3,3) tokenomics
 
 - **Multi-Chain Consideration & Tokenised Assets**:
   - HIC invested $250K in joinn.io (5% at $10M valuation)
   - HIC bullish on Polkadot for tokenised assets
-  - **DECISION**: Add Polkadot to blockchain evaluation
-  - New options: Ethereum/Arbitrum/Optimism/Base/Polygon/**Polkadot**
+  - **DECISION**: Add Polkadot to blockchain evaluation (6th option)
+  - Options: Ethereum/Arbitrum/Optimism/Base/Polygon/**Polkadot**
 
-  - **Tokenised Assets Tech**:
+  - **Tokenised Assets Tech** (Josh):
     - Josh already developed the tech for tokenised assets
-    - Waiting for Josh to come back to us about this
+    - Waiting for Josh to come back with update
     - Could be critical differentiator for FunDe.Fi
-    - Integration with ve(3,3) tokenomics?
+    - How to integrate with ve(3,3) tokenomics?
 
 - **Action Items**:
-  - Discuss mechanics internally with team
-  - Create clear documentation
+  - Discuss weekly emissions mechanics (DEX → Launchpad adaptation)
+  - Create clear documentation of emission system
   - Schedule follow-up with Anjelito to explain system
   - Update spec-docs with detailed emission mechanics
   - **Add Polkadot to blockchain evaluation** (6th option)
   - Follow up with Josh re tokenised assets tech status
   - Explore tokenised assets integration with ve(3,3) model
 
-- **Update**: Simon's discussion with Thuy (if completed)
-- **Related**: See fundefi-spec-docs OPEN-QUESTIONS.md and ROADMAP.md (tokenomics section)
+---
+
+## Infrastructure / Admin Tasks
+
+### Favourse.com Migration & Setup (Kevin)
+- **Assigned to**: Kevin
+- **Current status**: Need to migrate from current host
+- **Tasks**:
+  - Migrate domain and services
+  - Update DNS if needed
+  - Verify everything works
+
+### Netcup.de - Migrate and Cancel (Kevin)
+- **Assigned to**: Kevin
+- **Action**: Migrate services away, then cancel account
+- **Related to**: Favourse.com setup
+
+### Bluehost.com - Migrate and Cancel (Kevin)
+- **Assigned to**: Kevin
+- **Action**: Migrate services away, then cancel account
+- **Related to**: Favourse.com setup
 
 ---
 
-## Action Items
-- [ ] Review and provide feedback on printora-spec-docs
-- [ ] Review and provide feedback on fundefi-spec-docs
-- [ ] Assign owner for Printora AI-Design staging deployment
-- [ ] Set timeline for staging deployment completion
-- [ ] Team to share AkunIndo job postings on social media (tag Simon)
-- [ ] **URGENT**: Design FunDe.Fi weekly emissions system (distribute to campaigns/projects/vaults)
+## Action Items Summary
+
+### Immediate (This Week)
+- [ ] **Kevin**: Printora AI-Design staging deployment (start, timeline)
+- [ ] **Kevin**: Stripe sandbox setup for Printora
+- [ ] **Kevin**: Sign up to POD fulfillment service (Printful/Printify/Gelato)
+- [ ] **Kevin**: Create Printora social media accounts
+- [ ] **Kevin**: Optimize AkunIndo mobile layout
+- [ ] **Kevin**: Migrate favourse.com, netcup.de, bluehost.com
+
+### FunDe.Fi (Critical)
+- [ ] Discuss how to adapt DEX emissions model to Launchpad
+- [ ] **URGENT**: Design weekly emissions system (campaigns/projects/vaults distribution)
 - [ ] Create detailed documentation for FunDe.Fi emissions mechanics
-- [ ] Schedule follow-up with Anjelito to explain emissions system
+- [ ] Schedule follow-up with Anjelito to explain system
 - [ ] Update fundefi-spec-docs with emission distribution details
-- [ ] **Add Polkadot to blockchain evaluation** for FunDe.Fi (6th option alongside ETH/Arbitrum/Optimism/Base/Polygon)
+- [ ] **Add Polkadot to blockchain evaluation** (6th option alongside ETH/Arbitrum/Optimism/Base/Polygon)
 - [ ] Follow up with Josh re tokenised assets tech (waiting for his response)
 - [ ] Explore how tokenised assets integrate with ve(3,3) tokenomics
-- [ ] Kevin: Continue Stripe sandbox setup for Printora
-- [ ] Simon: Follow up with HIC re investment/partnership (Polkadot, tokenised assets)
+
+### AkunIndo
+- [ ] Team to share AkunIndo job postings on social media (tag Simon)
+- [ ] Discuss hiring strategy for 2-3 positions
+
+### Admin
+- [ ] Review GitHub Projects boards for Printora, FunDe.Fi, FavosApp
+- [ ] Review spec-docs completeness
+
+---
+
+## Notes
+
+### Strategic Opportunities
+- **Josh's tokenised assets tech** + **HIC's Polkadot interest** = unique positioning for FunDe.Fi
+- Could differentiate from competing launchpads
+- Polkadot multi-chain reduces platform risk
+
+### Dependencies
+- **Anjelito**: Waiting on weekly emissions clarification
+- **Josh**: Waiting on tokenised assets tech update
+- **Kevin**: Heavy load - multiple projects (Printora, AkunIndo, infrastructure)
+
+### Timeline Critical Dates
+- **November 1**: Printora POD provider decision
+- **Unknown**: Josh's tokenised assets tech response
+- **Unknown**: HIC follow-up for investment/partnership
 
 ---
 
 **Prepared by**: Claude Code
 **Date Created**: 2025-10-22
+**Last Updated**: 2025-10-23
+
