@@ -108,6 +108,26 @@ gh repo create <name> --public --source=. --remote=origin --push
 
 See [INBOX-SOURCES.md](INBOX-SOURCES.md) for detailed breakdown.
 
+## Important Google Docs / Spreadsheets
+
+### CRM Spreadsheet (Shared with Thuy)
+- **URL**: https://docs.google.com/spreadsheets/d/1lCacjkXpnsKzXsRuyvI7NobiHiniqb9aTnEetiym_Ts/edit?gid=2048423968#gid=2048423968
+- **Purpose**: Customer relationship management
+- **Shared with**: Thuy
+- **Access**: simon@favourse.com
+- **Note**: Primary CRM for tracking clients/contacts
+
+### Online Subscriptions Tracker
+- **URL**: https://docs.google.com/spreadsheets/d/1XAVetse9WuXkE6e8EGw7PIfdFsdYcB2Tm7HflgnukwE/edit
+- **Purpose**: Track all online subscriptions and recurring costs
+- **Access**: simon@favourse.com
+
+### Nhung's Grant Applications Tracker
+- **URL**: https://docs.google.com/spreadsheets/d/10cJ0NzgqKNmNMNUhHS7_RgtT0VNYBYPJb7woEHvyipc/edit?pli=1&gid=2010391103#gid=2010391103
+- **Purpose**: Track blockchain foundation grant applications for FavOS App
+- **Assigned to**: Nhung
+- **Review**: Daily or every few days
+
 ## Work Preferences
 
 ### Communication
