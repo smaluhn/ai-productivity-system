@@ -36,9 +36,14 @@ gh repo create <name> --public --source=. --remote=origin --push
 | **Favorsid** | favors.id related repos | https://github.com/Favorsid |
 | **sudosimonglitch** | AkunIndo, personal projects | https://github.com/sudosimonglitch |
 
-### Personal Accounts
+### Personal Accounts & Team Members
 - **sudosimonglitch** (Simon's personal) - simonsmaluhn@gmail.com
-- **zee-mon** (formerly favosapp, shared with Kevin) - Used primarily for Vercel deployments
+- **zee-mon** (Kevin) - Used for Vercel deployments and development
+- **mrfavi** (Eko) - Team member
+- **OneBigStar3** (Anjelito) - Team member, FunDe.Fi/Favos focus
+- **YosuaTriantara** (Yosua) - Team member
+
+**Note**: Simon uses sudosimonglitch for all personal work. zee-mon is Kevin's account.
 
 ### GitHub Projects Boards
 | Project | Board URL |
