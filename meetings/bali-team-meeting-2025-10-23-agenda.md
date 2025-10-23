@@ -148,6 +148,11 @@
     - Could be critical differentiator for FunDe.Fi
     - How to integrate with ve(3,3) tokenomics?
 
+- **Investment Structure**:
+  - Offer investors both options: **Token investment AND/OR Equity investment**
+  - Document terms for both investment types
+  - Include in investor pitches and spec-docs
+
 - **Action Items**:
   - Discuss weekly emissions mechanics (DEX → Launchpad adaptation)
   - Create clear documentation of emission system
@@ -156,6 +161,7 @@
   - **Add Polkadot to blockchain evaluation** (6th option)
   - Follow up with Josh re tokenised assets tech status
   - Explore tokenised assets integration with ve(3,3) model
+  - Document token vs equity investment options
 
 ---
 
