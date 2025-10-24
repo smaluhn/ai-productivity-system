@@ -14,7 +14,7 @@ Obsidian mobile app GitHub connection not working smoothly yet.
 
 - [ ] Update GitHub username in Obsidian mobile settings (from `sudosimonglitch` to `smaluhn`)
 - [ ] Verify GitHub personal access token is valid for mobile
-- [ ] Test sync from mobile to `zee-mon/simon` repository
+- [ ] Test sync from mobile to `smaluhn/productivity-system` repository
 - [ ] Verify pull/push operations work on mobile
 - [ ] Document final working configuration
 
@@ -22,7 +22,7 @@ Obsidian mobile app GitHub connection not working smoothly yet.
 
 ## Repository Details
 
-**Repository:** https://github.com/zee-mon/simon
+**Repository:** https://github.com/smaluhn/productivity-system
 **Branch:** main
 **Access:** smaluhn has admin access
 
@@ -64,7 +64,7 @@ All organization invitations accepted for smaluhn:
    - Username: `smaluhn`
    - Personal Access Token: [paste token from Step 1]
 3. **Repository:**
-   - Remote: `https://github.com/zee-mon/simon.git`
+   - Remote: `https://github.com/smaluhn/productivity-system.git`
    - Branch: `main`
 4. Test pull operation
 5. Test push operation
@@ -76,7 +76,7 @@ All organization invitations accepted for smaluhn:
    - Username: `smaluhn` (change from `sudosimonglitch`)
    - Personal Access Token: [paste token from Step 1]
 4. **Repository:**
-   - Remote: `https://github.com/zee-mon/simon.git`
+   - Remote: `https://github.com/smaluhn/productivity-system.git`
    - Branch: `main`
 5. Test pull operation
 6. Test push operation
