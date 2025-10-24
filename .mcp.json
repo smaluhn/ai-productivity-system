@@ -38,7 +38,7 @@
         "reclaim-mcp-server"
       ],
       "env": {
-        "RECLAIM_API_TOKEN": "${RECLAIM_API_TOKEN}"
+        "RECLAIM_API_KEY": "${RECLAIM_API_KEY}"
       }
     },
     "fireflies": {
