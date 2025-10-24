@@ -45,14 +45,49 @@ All organization invitations accepted for smaluhn:
 
 ## Configuration Steps (To Complete)
 
+### Step 1: Create GitHub Personal Access Token (smaluhn)
+1. ✅ Browser opened to: https://github.com/settings/tokens/new
+2. Login as: **smaluhn**
+3. Token settings:
+   - **Name:** "Obsidian Git Plugin - Mobile & Desktop"
+   - **Expiration:** No expiration (or 1 year)
+   - **Scopes:**
+     - ✓ `repo` (Full control of private repositories)
+     - ✓ `workflow` (Update GitHub Action workflows)
+4. Click **"Generate token"**
+5. **COPY THE TOKEN IMMEDIATELY** (you won't see it again!)
+6. Save in 1Password: "GitHub PAT - smaluhn - Obsidian"
+
+### Step 2: Configure Obsidian Desktop
+1. Open Obsidian → Settings → Community Plugins → Git
+2. **Authentication:**
+   - Username: `smaluhn`
+   - Personal Access Token: [paste token from Step 1]
+3. **Repository:**
+   - Remote: `https://github.com/zee-mon/simon.git`
+   - Branch: `main`
+4. Test pull operation
+5. Test push operation
+
+### Step 3: Configure Obsidian Mobile
 1. Open Obsidian mobile app
 2. Go to Settings → Community Plugins → Git
-3. Update username from `sudosimonglitch` to `smaluhn`
-4. Verify repository URL: `https://github.com/zee-mon/simon.git`
-5. Update personal access token if needed
-6. Test pull operation
-7. Test push operation
-8. Verify auto-sync is working
+3. **Authentication:**
+   - Username: `smaluhn` (change from `sudosimonglitch`)
+   - Personal Access Token: [paste token from Step 1]
+4. **Repository:**
+   - Remote: `https://github.com/zee-mon/simon.git`
+   - Branch: `main`
+5. Test pull operation
+6. Test push operation
+7. Enable auto-sync if working
+
+### Step 4: Verify Auto-Sync
+1. Make a change on desktop → push
+2. Pull on mobile → verify change appears
+3. Make a change on mobile → push
+4. Pull on desktop → verify change appears
+5. Enable automatic sync on both devices
 
 ---
 

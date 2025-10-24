@@ -45,6 +45,11 @@
 - Cross-project updates
 - Resource allocation
 - Logo final approval (if not done)
+- **User Testimonials & Video Feedback Strategy**
+  - Ask first users/test users for feedback AND permission to use as testimonials
+  - Collect short video testimonials from early users
+  - Use for marketing materials and social proof
+  - *Idea from: Simon's mom*
 
 ---
 
