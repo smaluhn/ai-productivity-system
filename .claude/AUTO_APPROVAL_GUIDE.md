@@ -297,7 +297,7 @@ Bash(while read line)
 - Installing npm/python dependencies
 - Running tests and builds
 
-**Repository remote:** `https://github.com/zee-mon/simon.git`
+**Repository remote:** `https://github.com/smaluhn/productivity-system.git`
 
 ---
 
