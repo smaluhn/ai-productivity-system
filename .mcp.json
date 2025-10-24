@@ -8,6 +8,65 @@
       "env": {
         "GOOGLE_OAUTH_CREDENTIALS": "${GOOGLE_OAUTH_CREDENTIALS}"
       }
+    },
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PERSONAL_ACCESS_TOKEN}"
+      }
+    },
+    "telegram": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "telegram-mcp"
+      ],
+      "env": {
+        "TELEGRAM_API_ID": "${TELEGRAM_API_ID}",
+        "TELEGRAM_API_HASH": "${TELEGRAM_API_HASH}",
+        "TELEGRAM_SESSION": "${TELEGRAM_SESSION}"
+      }
+    },
+    "reclaim": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "reclaim-mcp-server"
+      ],
+      "env": {
+        "RECLAIM_API_TOKEN": "${RECLAIM_API_TOKEN}"
+      }
+    },
+    "fireflies": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@props-labs/fireflies-mcp"
+      ],
+      "env": {
+        "FIREFLIES_API_KEY": "${FIREFLIES_API_KEY}"
+      }
+    },
+    "postgres": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres"
+      ],
+      "env": {
+        "POSTGRES_CONNECTION_STRING": "${POSTGRES_CONNECTION_STRING}"
+      }
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem"
+      ]
     }
   }
 }

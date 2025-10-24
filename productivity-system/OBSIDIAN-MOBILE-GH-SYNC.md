@@ -111,4 +111,35 @@ If sync still doesn't work:
 
 ---
 
+## Auto-Sync Setup (Desktop/VS Code)
+
+**Automatic sync every 15 minutes** is configured using launchd on macOS:
+
+- **Script:** `/Users/simon/git/simon/.auto-sync.sh`
+- **Service:** `com.smaluhn.git-autosync`
+- **Interval:** Every 15 minutes (900 seconds)
+- **Log:** `/Users/simon/git/simon/.auto-sync.log`
+
+**Manage the service:**
+```bash
+# Check status
+launchctl list | grep smaluhn
+
+# Stop auto-sync
+launchctl unload ~/Library/LaunchAgents/com.smaluhn.git-autosync.plist
+
+# Start auto-sync
+launchctl load ~/Library/LaunchAgents/com.smaluhn.git-autosync.plist
+
+# View sync log
+tail -f /Users/simon/git/simon/.auto-sync.log
+```
+
+**Obsidian Settings:**
+- Auto pull on startup: **Enabled**
+- Auto push on exit: **Enabled**
+- No interval-based auto-sync (uses manual sync or startup/exit only)
+
+---
+
 **Last Updated:** 2025-10-24
