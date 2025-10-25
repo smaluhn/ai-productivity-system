@@ -1,0 +1,22 @@
+{
+  "name": "fireflies-automation",
+  "version": "1.0.0",
+  "description": "Automation scripts for Fireflies.ai webhook processing",
+  "main": "process-fireflies-webhook.js",
+  "scripts": {
+    "start": "node process-fireflies-webhook.js server",
+    "test": "node process-fireflies-webhook.js test"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "fireflies",
+    "webhook",
+    "automation",
+    "meetings"
+  ],
+  "author": "Simon",
+  "license": "MIT"
+}

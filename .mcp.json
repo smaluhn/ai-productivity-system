@@ -45,7 +45,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@props-labs/fireflies-mcp"
+        "fireflies-mcp-server"
       ],
       "env": {
         "FIREFLIES_API_KEY": "${FIREFLIES_API_KEY}"

@@ -11,6 +11,10 @@
 ## 🔧 Technical Tasks
 - [ ] Fix Obsidian Git sync issue (abort merge or reset plugin)
 - [ ] Test auto-sync script with new repository
+- [x] Set up Fireflies.ai MCP integration (see `docs/fireflies-mcp-setup.md`)
+- [ ] **RESTART CLAUDE CODE** to activate Fireflies MCP
+- [ ] Test Fireflies: "Get my last meeting summary"
+- [ ] Set up Fireflies webhook for automatic meeting processing
 
 ## 🏃 Personal/Admin
 - [ ] Get SIM cards (AkunIndo, Thuy, check permanent for me)
