@@ -1,10 +1,17 @@
 # AI Productivity System
 
-> An AI-powered productivity and task management system integrating Fireflies meeting transcripts, GitHub Projects, and automated workflows.
+> An AI-powered productivity and task management system built on **Claude Code CLI in VSCode**, integrating Fireflies meeting transcripts, GitHub Projects, Obsidian, and automated workflows.
 
 ## Overview
 
-This system provides a comprehensive workflow for managing team tasks, meeting notes, and project documentation using AI tools and GitHub automation.
+This system provides a comprehensive workflow for managing team tasks, meeting notes, and project documentation using **Claude Code CLI as the central hub** with MCP (Model Context Protocol) integrations.
+
+**Core Architecture:**
+- **VSCode + Claude Code CLI** - Your command center (any LLM-powered IDE works)
+- **MCP Integrations** - Connect to all your tools (Fireflies, GitHub, Google Calendar, etc.)
+- **Obsidian** - Knowledge base with mobile sync
+- **GitHub** - Single source of truth for tasks
+- **Automated Workflows** - Meeting → Task → Done
 
 ## Key Features
 
