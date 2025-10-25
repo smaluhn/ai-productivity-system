@@ -1,26 +1,45 @@
 # Social Media Automation
 
-Automated posting system for X (Twitter), LinkedIn, and Threads.
+Automated posting system for X (Twitter), LinkedIn, Threads, Facebook, and integration with Substack and personal blog.
 
 ## Structure
 
 ```
-social-media/
-├── twitter/
-│   ├── posts/
-│   │   └── YYYY-MM-DD-post-title.md
-│   └── threads/
-│       └── YYYY-MM-DD-thread-title.md
-├── linkedin/
-│   ├── posts/
-│   │   └── YYYY-MM-DD-post-title.md
-│   └── articles/
-│       └── YYYY-MM-DD-article-title.md
-├── threads/
-│   └── posts/
-│       └── YYYY-MM-DD-post-title.md
-└── drafts/
-    └── YYYY-MM-DD-draft-title.md
+content/
+├── social-media/
+│   ├── twitter/
+│   │   ├── posts/
+│   │   │   └── YYYY-MM-DD-post-title.md
+│   │   └── threads/
+│   │       └── YYYY-MM-DD-thread-title.md
+│   ├── linkedin/
+│   │   ├── posts/
+│   │   │   └── YYYY-MM-DD-post-title.md
+│   │   └── articles/
+│   │       └── YYYY-MM-DD-article-title.md
+│   ├── threads/
+│   │   └── posts/
+│   │       └── YYYY-MM-DD-post-title.md
+│   ├── facebook/
+│   │   ├── personal/
+│   │   │   └── YYYY-MM-DD-post-title.md
+│   │   └── business/
+│   │       ├── printora/
+│   │       └── akunindo/
+│   └── drafts/
+│       └── YYYY-MM-DD-draft-title.md
+├── substack/
+│   ├── newsletters/
+│   │   └── YYYY-MM-WW-weekly-update.md
+│   ├── articles/
+│   │   └── YYYY-MM-DD-article-title.md
+│   └── drafts/
+│       └── YYYY-MM-DD-draft-title.md
+└── blog/  (simon.smaluhn.com)
+    ├── drafts/
+    │   └── YYYY-MM-DD-draft-title.md
+    └── published/
+        └── YYYY-MM-DD-article-title.md
 ```
 
 ## Post Format
