@@ -823,3 +823,24 @@ From https://github.com/smaluhn/productivity-system
 Already up to date.
 [2025-10-25 13:06:32] Pull successful
 [2025-10-25 13:06:32] Changes detected, committing...
+[main f9392ab] Auto-sync: 2025-10-25 13:06:32
+ 9 files changed, 925 insertions(+), 2 deletions(-)
+ create mode 100644 FIREFLIES-CONTEXT.md
+ create mode 100644 FIREFLIES-QUICK-START.md
+ create mode 100644 docs/fireflies-mcp-setup.md
+ create mode 100644 scripts/package.json
+ create mode 100755 scripts/process-fireflies-webhook.js
+[2025-10-25 13:06:32] Changes committed
+[2025-10-25 13:06:32] Pushing changes...
+To https://github.com/smaluhn/productivity-system.git
+   6fdccff..f9392ab  main -> main
+[2025-10-25 13:06:34] Push successful
+[2025-10-25 13:06:34] Auto-sync completed
+[2025-10-25 13:06:34] ---
+[2025-10-25 13:22:54] Starting auto-sync...
+[2025-10-25 13:22:54] Pulling latest changes...
+From https://github.com/smaluhn/productivity-system
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[2025-10-25 13:22:56] Pull successful
+[2025-10-25 13:22:56] Changes detected, committing...
