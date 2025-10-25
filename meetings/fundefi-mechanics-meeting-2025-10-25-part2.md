@@ -28,7 +28,9 @@ Second part of FunDeFi tokenomics discussion finalizing the voting mechanism, fe
 - ✅ **5% total for airdrops/staking incentives (CONFIRMED):**
   - **2.5% for marketing airdrops** (voters, contributors, marketers)
   - **2.5% for auto-staking pool incentives**
-- ✅ **Remaining ~60%** goes to project
+- ✅ **Remaining ~60%** goes to project treasury
+  - **⚠️ LOCKED with milestone-based release**
+  - Released via veTOKEN holder voting (governance)
 
 ### Token Distribution
 - ✅ **No protocol emissions** - FunDeFi is a launchpad, not a DEX
@@ -42,6 +44,15 @@ Second part of FunDeFi tokenomics discussion finalizing the voting mechanism, fe
 - ✅ **Automated staking pools** created for each launchpad project
 - ✅ **Restaking feature** - auto-renew VE token locks at expiry
 - ✅ **Boost rewards** for auto-stakers (20-25% extra for 1-3 months)
+
+### Project Setup Requirements
+- ✅ **Soft cap/minimum funding** - Minimum $ needed for project to proceed
+- ✅ **Fund usage plan** - How funds will be used
+- ✅ **1-4 Milestones** with:
+  - Defined scope
+  - Verifiable completion criteria
+  - $ amount to be released per milestone
+- ✅ **Milestone releases** require veTOKEN holder vote approval
 
 ### Service Pricing
 - ✅ **~$2,500 fee** for creating/automating staking pools for projects
@@ -74,12 +85,19 @@ Second part of FunDeFi tokenomics discussion finalizing the voting mechanism, fe
 - **5% (500)** → Token distribution:
   - **2.5% (250)** → Marketing airdrops (CONFIRMED)
   - **2.5% (250)** → Auto-staking incentives (CONFIRMED)
-- **60% (6K)** → Project treasury
+- **60% (6K)** → Project treasury (**MILESTONE-LOCKED**)
 
 **Why fixed parameters?**
 - Simplicity for projects (no decision paralysis)
 - Prevents insufficient liquidity (common failure point)
 - Can adjust model later after validation
+
+**Project Treasury (60%) - Milestone-Based Release:**
+- NOT released all at once
+- Locked in smart contract
+- Released in stages based on milestone completion
+- Each release requires **veTOKEN holder vote approval**
+- Protects backers from rug pulls and mismanagement
 
 ### 3. Token Airdrop Mechanism
 
@@ -147,10 +165,51 @@ Second part of FunDeFi tokenomics discussion finalizing the voting mechanism, fe
 - Automatically renews lock for chosen duration
 - Maintains voting power and rewards
 
-### 7. Automated Staking Pools
+### 7. Milestone-Based Treasury Release System
+
+**Purpose:** Protect backers and ensure accountability
+
+**Project Setup Requirements:**
+When creating a project, founders must define:
+
+1. **Soft Cap/Minimum Funding**
+   - Minimum $ needed for project to proceed
+   - If not reached, funds returned to backers
+
+2. **Fund Usage Plan**
+   - Detailed breakdown of how funds will be used
+   - Transparent allocation (dev, marketing, ops, etc.)
+
+3. **Milestones (1-4 required)**
+   - **Scope:** What will be delivered
+   - **Verifiable Criteria:** How completion is verified
+   - **$ Amount:** How much released upon completion
+   - **Timeline:** Expected completion date
+
+**Release Mechanism:**
+1. Project completes milestone
+2. Submits proof/evidence to community
+3. **veTOKEN holders vote** on whether criteria met
+4. If approved (e.g., >50% yes votes) → funds released
+5. If rejected → project must remediate or provide more evidence
+
+**Example Milestone Structure (10K raise, 6K treasury):**
+- **Milestone 1 (2K):** MVP launch + 100 users - 30 days
+- **Milestone 2 (1.5K):** 1,000 users + core features - 60 days
+- **Milestone 3 (1.5K):** 5,000 users + partnerships - 90 days
+- **Milestone 4 (1K):** 10,000 users + revenue generation - 120 days
+
+**Benefits:**
+- Protects backers from rug pulls
+- Ensures project delivers on promises
+- Creates accountability through governance
+- veTOKEN holders have skin in the game (already investors)
+- Gradual release reduces mismanagement risk
+
+### 8. Automated Staking Pools
 
 **Service for projects:**
-- Fundify creates automated staking pool
+- FunDeFi creates automated staking pool
 - Built into launchpad
 - Price: ~$2,500 per project
 
@@ -172,6 +231,11 @@ Second part of FunDeFi tokenomics discussion finalizing the voting mechanism, fe
 - [ ] Implement automated staking pool creation service for projects on the launchpad
 - [ ] Establish pricing structure (~$2,500) for staking pool service
 - [ ] Create visual diagram of complete FunDeFi mechanism
+- [ ] **Design milestone-based treasury release smart contract**
+- [ ] **Build veTOKEN holder voting interface for milestone approvals**
+- [ ] **Create project setup form with soft cap, milestones, and verifiable criteria fields**
+- [ ] **Implement milestone verification and evidence submission system**
+- [ ] **Design governance threshold for milestone releases (e.g., >50% approval)**
 
 ### Design/Documentation
 - [ ] Simplify presentation of complex tokenomics
@@ -351,12 +415,13 @@ Does it make sense? I mean do do offers. Does it? Is it understandable?
 **Simon's request:** Create a visual map/diagram of the complete mechanism
 
 **What needs to be visualized:**
-1. User flow: FUNDY → VE FUNDY → Voting
-2. Project flow: Fundraising → Distribution (10% fee, 25% liquidity, 5% airdrops/staking, 60% project)
+1. User flow: $FUNDE → veFUNDE → Voting
+2. Project flow: Fundraising → Distribution (10% fee, 25% liquidity, 5% airdrops/staking, 60% milestone-locked treasury)
 3. Incentive flow: Project/supporters add incentives → distributed to voters
 4. Staking flow: Auto-stake option → bonus rewards → vault rewards
-5. Tax flow: 2% buy/sell → vault → VE stakers
+5. Tax flow: 2% buy/sell → dual vaults (project + FunDeFi) → VE stakers
 6. Restaking loop: Auto-renewal of VE locks
+7. **Milestone governance flow: Milestone completion → veTOKEN vote → Treasury release**
 
 ---
 
@@ -364,6 +429,7 @@ Does it make sense? I mean do do offers. Does it? Is it understandable?
 
 - $FUNDE token
 - veFUNDE voting
+- veTOKEN governance
 - two-week epoch
 - launchpad mechanism
 - token airdrop
@@ -374,6 +440,10 @@ Does it make sense? I mean do do offers. Does it? Is it understandable?
 - buy/sell tax
 - dual vault system
 - no emissions model
+- milestone-based treasury
+- soft cap funding
+- community governance
+- rug pull protection
 
 ---
 
