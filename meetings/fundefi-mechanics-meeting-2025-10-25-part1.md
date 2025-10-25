@@ -16,27 +16,28 @@ First part of FunDeFi tokenomics discussion covering the core staking model, rev
 
 ## Key Decisions Made
 
-- **Token Ticker:** FUNDY (F-U-N-D-E for Fundify)
-- **Vote Escrow Token:** VE FUNDY
-- **Core Mechanism:** Stake FUNDY → Receive VE FUNDY
+- **Platform Name:** FunDeFi
+- **Token Ticker:** $FUNDE
+- **Vote Escrow Token:** veFUNDE
+- **Core Mechanism:** Stake FUNDE → Receive veFUNDE
 - **VE33 Mechanics:** Longer staking = more voting power (multiplier effect) + higher APY
 - **Revenue Sources Confirmed:**
   - Launchpad fees
   - Token trading buy/sell tax fees
   - LP yield
   - Usage fees from tokens used as credits in apps
-- **Revenue Distribution:** Vault distributes to token creators, Fundify protocol, and VE token stakers
+- **Revenue Distribution:** Vault distributes to token creators, FunDeFi protocol, and veFUNDE token stakers
 
 ---
 
 ## Key Topics Discussed
 
 ### 1. Token Structure
-- Primary token: **FUNDY**
-- Vote escrow token: **VE FUNDY** (obtained by staking FUNDY)
+- Primary token: **$FUNDE**
+- Vote escrow token: **veFUNDE** (obtained by staking FUNDE)
 
-### 2. Staking Benefits for VE FUNDY Holders
-- **Minimum allocation** of new tokens (GMA) on the launchpad
+### 2. Staking Benefits for veFUNDE Holders
+- **Guaranteed minimum allocation** of new tokens on the launchpad
 - **Yield earnings** from multiple revenue streams
 - **Enhanced voting power** with longer staking periods (VE33 mechanics)
 - **Higher APY** for longer staking commitments
@@ -44,8 +45,8 @@ First part of FunDeFi tokenomics discussion covering the core staking model, rev
 ### 3. Revenue Streams (Yield Sources)
 All feed into a vault that distributes to:
 - Token creators
-- Fundify protocol
-- VE token stakers
+- FunDeFi protocol
+- veFUNDE token stakers
 
 Revenue comes from:
 1. **Launchpad fees** - From project fundraising
@@ -54,10 +55,10 @@ Revenue comes from:
 4. **Usage fees** - When tokens are used for credits in apps
 
 ### 4. Emissions vs. Bribes Debate (Unresolved)
-**Question:** Should we implement weekly FUNDY token emissions?
+**Question:** Should we implement weekly FUNDE token emissions?
 
 **Traditional DeFi Model:**
-- Weekly FUNDY emissions go to projects receiving most VE FUNDY votes
+- Weekly FUNDE emissions go to projects receiving most veFUNDE votes
 - Creates inflation but incentivizes voting
 
 **Alternative Model:**
@@ -71,7 +72,7 @@ Revenue comes from:
 ## Action Items
 
 ### Unassigned (Tokenomics Sub-team)
-- [ ] Decide on implementing emissions of FUNDY tokens to projects based on VE FUNDY votes or opting out of emissions
+- [ ] Decide on implementing emissions of FUNDE tokens to projects based on veFUNDE votes or opting out of emissions
 - [ ] Define the structure of incentive models and bribes in relation to the emissions decision and weekly voting campaigns
 - [ ] Analyze pros and cons of emissions vs. bribes model
 - [ ] Prepare recommendation for next meeting
@@ -110,8 +111,8 @@ So it's.
 
 ## Keywords
 
-- FUNDY token
-- VE FUNDY
+- $FUNDE token
+- veFUNDE
 - staking yield
 - launchpad fees
 - emissions model

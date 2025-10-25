@@ -1059,3 +1059,22 @@ From https://github.com/smaluhn/productivity-system
 Already up to date.
 [2025-10-25 18:37:47] Pull successful
 [2025-10-25 18:37:47] Changes detected, committing...
+[main e1dcdde] Auto-sync: 2025-10-25 18:37:47
+ 6 files changed, 1035 insertions(+), 18 deletions(-)
+ create mode 100644 docs/workflows/github-projects-deep-dive.md
+ create mode 100644 docs/workflows/integrations-overview.md
+ create mode 100644 meetings/fundefi-mechanics-meeting-2025-10-25-part1.md
+[2025-10-25 18:37:47] Changes committed
+[2025-10-25 18:37:47] Pushing changes...
+To https://github.com/smaluhn/productivity-system.git
+   429b917..e1dcdde  main -> main
+[2025-10-25 18:37:49] Push successful
+[2025-10-25 18:37:49] Auto-sync completed
+[2025-10-25 18:37:49] ---
+[2025-10-25 18:52:49] Starting auto-sync...
+[2025-10-25 18:52:49] Pulling latest changes...
+From https://github.com/smaluhn/productivity-system
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[2025-10-25 18:52:51] Pull successful
+[2025-10-25 18:52:51] Changes detected, committing...
