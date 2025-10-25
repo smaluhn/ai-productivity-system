@@ -175,42 +175,97 @@ Second part of FunDeFi tokenomics discussion finalizing the voting mechanism, fe
 - Tax flows to TOKEN vault → redistributed to veTOKEN stakers
 - Creates sustainable reward mechanism
 
-### 4. Auto-Staking Feature
+### 4. Auto-Staking Feature (2.5% TOKEN Allocation Bonus)
 
-**At Token Purchase:**
+**At Token Purchase/Backing:**
 - Buyer has option to "auto-stake" tokens
+- **2.5% of TOKEN supply** distributed ONLY to auto-stakers
 - Auto-stakers receive:
-  - Share of 2.5% staking incentive pool
-  - Boost rewards (20-25% extra) for 1-3 months
-  - Proportional share of 2% buy/sell tax from vault
+  - **Proportional share of 2.5% TOKEN pool** (immediate bonus)
+  - **Ongoing share of 2% buy/sell tax** from TOKEN vault
+  - **Boost rewards** (20-25% extra APY) for 1-3 months
+  - **Governance rights** via veTOKEN
 
 **Example:**
-- User buys $100 of new token
-- Chooses "auto-stake"
+- User backs TOKEN with $100 USDT
+- Chooses "auto-stake" option
 - Receives:
-  1. Token allocation
-  2. Bonus from 2.5% staking pool (distributed to all auto-stakers)
-  3. Ongoing rewards from 2% buy/sell tax vault
+  1. Base TOKEN allocation (from their $100)
+  2. **Bonus from 2.5% auto-staker pool** (shared with all auto-stakers)
+  3. **Ongoing yield from TOKEN vault** (2% tax revenue)
+  4. **Voting power** for milestone releases
 
-### 5. Revenue Model for veToken Stakers
+**Benefits:**
+- Incentivizes long-term holding
+- Reduces sell pressure at TGE
+- Creates aligned token holder base
+- Participants = governance voters for milestones
 
-**DUAL VAULT SYSTEM:**
+### 5. DUAL VAULT SYSTEM - Complete Revenue Model
 
-**2% buy/sell tax from launched tokens goes to BOTH:**
+#### **🏦 FunDeFi Protocol Vault**
 
-1. **Project's TOKEN Vault** (e.g., veLX vault for Project LX)
-   - Redistributes to veLX stakers (project-specific VE token holders)
-   - Creates project-level circular economy
+**Inflows:**
+1. **7.5% of launchpad fees** (in USDT from each fundraise)
+2. **Portion of 2% buy/sell tax** from ALL launched TOKENs
+3. **LP yield** from Protocol-owned liquidity positions
+4. **5% of all incentive fees** (when users add bribes/incentives)
+5. **$FUNDE usage fees** when used for protocol features/credits
+6. **Portion of TOKEN usage fees** (when TOKENs used in ecosystem apps)
 
-2. **FunDeFi Protocol Vault**
-   - Redistributes to veFUNDE stakers (platform VE token holders)
-   - Platform-level revenue sharing
+**Outflows (Redistributed to):**
+- veFUNDE stakers (proportional to lock duration/amount)
+- Protocol treasury for operations
+- Development fund
+- Marketing & ecosystem growth
+
+**Purpose:**
+- Sustainable protocol revenue without emissions
+- Rewards $FUNDE holders for long-term alignment
+- Funds ongoing platform development
+
+---
+
+#### **🏦 TOKEN Vault (per launched project)**
+
+**Inflows:**
+1. **2.5% of launchpad fees** (in USDT from that TOKEN's fundraise)
+2. **Portion of 2% buy/sell tax** from TOKEN trading
+3. **LP yield** from TOKEN's DEX liquidity pool
+4. **TOKEN usage fees** when used for apps/credits in ecosystem
+5. **Buyback mechanism** using USDT from vault
+
+**Outflows (Redistributed to):**
+- veTOKEN stakers (project-specific VE token holders)
+- TOKEN buyback & burn (price support)
+- Project development incentives
+- Community rewards
+
+**Purpose:**
+- Sustainable project-level yield
+- Price support through buybacks
+- Rewards early backers and long-term holders
+
+---
+
+#### **Revenue Split Details:**
+
+**2% Buy/Sell Tax Distribution:**
+- **50%** → TOKEN Vault (benefits veTOKEN stakers)
+- **25%** → FunDeFi Protocol Vault (benefits veFUNDE stakers)
+- **25%** → Liquidity pool (deepens liquidity)
+
+**Usage Fees (when TOKEN used for credits/features):**
+- **60%** → TOKEN Vault
+- **30%** → FunDeFi Protocol Vault
+- **10%** → App/feature developer
 
 **This creates:**
-- Dual circular economy (project + platform level)
-- Incentive to hold both veFUNDE and project VE tokens
+- **Triple circular economy** (project, platform, ecosystem)
+- Incentive to hold both veFUNDE and veTOKEN
 - Sustainable yield without protocol emissions
-- Revenue alignment at both levels
+- Revenue alignment at all levels
+- Buyback mechanism for price support
 
 ### 6. Restaking Feature
 
@@ -280,19 +335,42 @@ When creating a project, founders must define:
 ## Action Items
 
 ### Unknown/Simon/Dev Team
-- [ ] Finalize and document the two-week epoch voting mechanism with incentive structures
-- [ ] Design and publish a clear diagram/map outlining the entire token distribution and voting incentive mechanism
-- [ ] Calculate and test exact percentages for staking incentive pool and marketing airdrop allocations (currently 2.5%/2.5%)
-- [ ] Develop and deploy the auto-staking functionality integrated into the token purchase process
-- [ ] Set up the restaking feature allowing users to renew veToken staking automatically at lock expiry
-- [ ] Implement automated staking pool creation service for projects on the launchpad
-- [ ] Establish pricing structure (~$2,500) for staking pool service
-- [ ] Create visual diagram of complete FunDeFi mechanism
-- [ ] **Design milestone-based treasury release smart contract**
-- [ ] **Build veTOKEN holder voting interface for milestone approvals**
-- [ ] **Create project setup form with soft cap, milestones, and verifiable criteria fields**
-- [ ] **Implement milestone verification and evidence submission system**
-- [ ] **Design governance threshold for milestone releases (e.g., >50% approval)**
+
+**Core Voting & Staking:**
+- [ ] Finalize two-week epoch voting mechanism with incentive structures
+- [ ] Develop auto-staking functionality integrated into token purchase process
+- [ ] Set up restaking feature allowing users to renew veToken staking automatically at lock expiry
+- [ ] Implement 100 veFUNDE lock requirement for TOKEN creators
+- [ ] Build minimum voting threshold checks (20 wallets, 1000 veFUNDE)
+
+**Airdrop System:**
+- [ ] Build contributor nomination and voting system
+- [ ] Create referral link tracking and leaderboard system
+- [ ] Define exact reward splits for top 3 marketers (1st, 2nd, 3rd place %)
+- [ ] Implement veTOKEN distribution mechanism (3-month vesting)
+
+**Vault Mechanics:**
+- [ ] Design dual vault system (Protocol + TOKEN vaults)
+- [ ] Implement 2% buy/sell tax split (50% TOKEN, 25% Protocol, 25% LP)
+- [ ] Build buyback mechanism for TOKEN vaults
+- [ ] Create usage fee tracking and distribution system
+- [ ] Implement 5% incentive fee collection and distribution
+
+**Milestone Governance:**
+- [ ] Design milestone-based treasury release smart contract
+- [ ] Build veTOKEN holder voting interface for milestone approvals
+- [ ] Create project setup form with soft cap, milestones, and verifiable criteria fields
+- [ ] Implement milestone verification and evidence submission system
+- [ ] Design governance threshold for milestone releases (>50% approval)
+
+**Tokenomics:**
+- [ ] Finalize TOKEN distribution (2.5% launchpad, 2.5% auto-stakers, 2.5% airdrops)
+- [ ] Implement 2.5% launchpad allocation auto-staking as veFUNDE
+- [ ] Calculate and optimize revenue splits across all mechanisms
+
+**Service & Pricing:**
+- [ ] Establish pricing structure (~$2,500) for automated staking pool service
+- [ ] Create visual diagram of complete FunDeFi mechanism (CRITICAL)
 
 ### Design/Documentation
 - [ ] Simplify presentation of complex tokenomics
@@ -485,28 +563,217 @@ Does it make sense? I mean do do offers. Does it? Is it understandable?
 ## Keywords
 
 - $FUNDE token
-- veFUNDE voting
+- veFUNDE voting (100 lock for creators)
 - veTOKEN governance
 - two-week epoch
+- minimum thresholds (20 wallets, 1000 veFUNDE)
 - launchpad mechanism
-- token airdrop
+- three-tier airdrop (contributors, marketers, backers)
+- 2.5% auto-staker bonus
 - staking incentives
 - liquidity allocation
 - restaking feature
 - auto-staking
-- buy/sell tax
-- dual vault system
-- no emissions model
-- milestone-based treasury
+- 2% buy/sell tax (50% TOKEN, 25% Protocol, 25% LP)
+- dual vault system (Protocol + TOKEN)
+- no emissions model (ZERO inflation)
+- milestone-based treasury (65% locked)
 - soft cap funding
 - community governance
 - rug pull protection
+- buyback mechanism
+- 5% incentive fees
+- referral leaderboard
+- usage fees (30% Protocol, 60% TOKEN)
+- 2.5% launchpad TOKEN allocation
+
+---
+
+## 📊 COMPLETE FUNDEFI MECHANICS SUMMARY
+
+### 🎯 Platform Overview
+**FunDeFi** is a community-governed launchpad with NO emissions, milestone-based treasury releases, and a dual vault system that creates sustainable yields for both platform and project stakeholders.
+
+---
+
+### 💎 Key Differentiators
+
+| Feature | Traditional Launchpad | FunDeFi |
+|---------|----------------------|---------|
+| **Community voting** | No | ✅ veFUNDE 2-week epochs |
+| **Creator commitment** | None | ✅ 100 veFUNDE lock required |
+| **Launch threshold** | None | ✅ 20 wallets + 1000 veFUNDE minimum |
+| **Emissions** | Often yes (inflationary) | ✅ ZERO (deflationary) |
+| **Treasury release** | Immediate (rug risk) | ✅ Milestone-locked + governance |
+| **Staking** | Manual | ✅ Auto-stake with 2.5% bonus |
+| **Airdrops** | Liquid (dumping) | ✅ Vested veTOKEN (3mo lock) |
+| **Airdrop system** | Generic | ✅ Contributors + Marketers + Backers |
+| **Revenue model** | Single tier | ✅ Dual vault (Protocol + TOKEN) |
+| **Accountability** | None | ✅ veTOKEN governance votes |
+| **Incentives** | Platform only | ✅ Anyone can add + 5% fee |
+| **Buyback** | Rare | ✅ Built-in from TOKEN vault |
+
+---
+
+### 💰 Complete Fee & Distribution Structure
+
+#### **From $10K USDT Fundraise:**
+
+**USDT Distribution:**
+- 7.5% (750) → FunDeFi Protocol Vault
+- 2.5% (250) → TOKEN Vault (buyback & yield)
+- 25% (2,500) → DEX Liquidity Pool
+- 65% (6,500) → Project Treasury (MILESTONE-LOCKED)
+
+**$TOKEN Distribution (from supply):**
+- 2.5% → Launchpad (auto-staked as veFUNDE)
+- 2.5% → Auto-stakers bonus pool
+- 2.5% → Airdrops:
+  - Contributors (nominated by community/creator)
+  - Marketers (top 3 leaderboard)
+  - Backers (veFUNDE voters)
+- 92.5% → Project (liquidity, team, community)
+
+---
+
+### 🏦 Dual Vault Economics
+
+#### **FunDeFi Protocol Vault Receives:**
+- 7.5% of all launchpad fees (USDT)
+- 25% of 2% buy/sell tax from ALL TOKENs
+- 5% of all incentive fees
+- 30% of usage fees (TOKEN/FUNDE used in apps)
+- LP yield from protocol-owned liquidity
+
+#### **TOKEN Vault (per project) Receives:**
+- 2.5% of launchpad fees (USDT from own raise)
+- 50% of 2% buy/sell tax (from own trading)
+- 60% of usage fees (when TOKEN used in apps)
+- LP yield from TOKEN's liquidity pool
+
+**Redistribution:**
+- Protocol Vault → veFUNDE stakers
+- TOKEN Vault → veTOKEN stakers + buybacks
+
+---
+
+### 🗳️ Anti-Spam & Quality Control
+
+**Creator Requirements:**
+- Lock 100 veFUNDE (skin in the game)
+- Define soft cap + milestones
+- Provide verifiable completion criteria
+
+**Launch Requirements:**
+- ≥20 unique wallet votes
+- ≥1,000 total veFUNDE voting power
+- Only then can accept bribes/incentives
+
+**Governance:**
+- veTOKEN holders vote on milestone releases
+- Protects backers from rug pulls
+- Ensures project accountability
+
+---
+
+### 🎁 Three-Tier Airdrop System (2.5% of TOKEN)
+
+1. **Contributors:**
+   - Provide valuable feedback in comments
+   - Nominated by creator OR community vote
+   - Rewards due diligence and quality analysis
+
+2. **Marketers:**
+   - Use referral links to promote TOKEN
+   - Leaderboard tracked during 2-week epoch
+   - Top 3 receive tiered rewards
+
+3. **Backers:**
+   - ALL veFUNDE voters for the TOKEN
+   - Proportional to voting power
+   - Rewards early supporters
+
+**All distributed as 3-month locked veTOKEN**
+
+---
+
+### 🔄 Revenue Streams (NO EMISSIONS!)
+
+**FunDeFi Protocol Vault:**
+- Launchpad fees (7.5% of all raises)
+- Trading taxes (25% of 2% tax from all TOKENs)
+- Incentive fees (5% of all bribes)
+- Usage fees (30% when FUNDE/TOKENs used)
+- LP yield
+
+**TOKEN Vaults (each project):**
+- Launchpad fee portion (2.5% of own raise)
+- Trading taxes (50% of 2% tax from own trading)
+- Usage fees (60% when own TOKEN used)
+- LP yield
+- **Used for buybacks + veTOKEN rewards**
+
+---
+
+### ⚡ Auto-Staking Bonus
+
+**Backers who choose auto-stake receive:**
+- 2.5% of TOKEN supply bonus (shared proportionally)
+- Ongoing yield from TOKEN vault
+- 20-25% APY boost for 1-3 months
+- Voting rights for milestones
+
+**Creates:**
+- Aligned long-term holders
+- Reduced sell pressure at TGE
+- Governance participants = investors
+
+---
+
+### 🛡️ Investor Protection
+
+**Milestone-Based Treasury:**
+- 65% of raise locked in contract
+- 1-4 milestones with verifiable criteria
+- veTOKEN holders vote to release funds
+- Gradual release reduces risk
+- Accountability built-in
+
+**Example (10K raise):**
+1. Milestone 1 (2K): MVP + 100 users @ 30 days
+2. Milestone 2 (1.5K): 1K users + features @ 60 days
+3. Milestone 3 (1.5K): 5K users + partnerships @ 90 days
+4. Milestone 4 (1K): 10K users + revenue @ 120 days
+
+---
+
+### 🚀 Incentive Mechanism
+
+**Anyone can add incentives to any TOKEN:**
+- TOKEN creator offers bribes (TOKENs or stables)
+- Community members can add more
+- 5% fee on all incentives → Protocol vault
+- Distributed proportionally to veFUNDE voters
+- Creates competitive market for best projects
+
+---
+
+### 📈 What Makes This Sustainable?
+
+1. **NO EMISSIONS** = No inflation
+2. **Dual vaults** = Multiple revenue streams
+3. **Usage fees** = Ecosystem value capture
+4. **Buyback mechanism** = Price support
+5. **Milestone governance** = Quality projects
+6. **Auto-staking incentive** = Long-term holders
+7. **3-month veTOKEN vesting** = Aligned interests
+8. **100 veFUNDE creator lock** = Serious projects only
 
 ---
 
 ## Next Steps
 
-1. Create visual diagram of complete FunDeFi mechanism
+1. Create visual diagram of complete FunDeFi mechanism (CRITICAL)
 2. Test percentage allocations with sample scenarios
 3. Build out technical specifications for:
    - Voting mechanism
