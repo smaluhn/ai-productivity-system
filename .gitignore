@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Temporary
+temp/
+tmp/
+*.tmp
+
+# Personal notes (not for repo)
+PRIVATE-NOTES.md
+personal/
