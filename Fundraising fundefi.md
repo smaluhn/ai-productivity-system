@@ -1,0 +1,5 @@
+- Werner CMC cmo or cbdo
+- base girl cmo or cbdo or so
+- ? Cto
+- ? Ceo
+- then give them benefits
