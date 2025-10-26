@@ -2096,3 +2096,86 @@ From https://github.com/smaluhn/productivity-system
 Already up to date.
 [2025-10-26 14:56:41] Pull successful
 [2025-10-26 14:56:42] Changes detected, committing...
+[main 4cf3ff8] Auto-sync: 2025-10-26 14:56:42
+ 1 file changed, 16 insertions(+)
+[2025-10-26 14:56:42] Changes committed
+[2025-10-26 14:56:42] Pushing changes...
+To https://github.com/smaluhn/productivity-system.git
+   29d91df..4cf3ff8  main -> main
+[2025-10-26 14:57:02] Push successful
+[2025-10-26 14:57:02] Auto-sync completed
+[2025-10-26 14:57:02] ---
+[2025-10-26 15:19:06] Starting auto-sync...
+[2025-10-26 15:19:06] Pulling latest changes...
+From https://github.com/smaluhn/productivity-system
+ * branch            main       -> FETCH_HEAD
+   4cf3ff8..ecd77e7  main       -> origin/main
+Updating 4cf3ff8..ecd77e7
+Fast-forward
+ .auto-sync.sh                                      |   0
+ inbox/2025-10-20-initial-dump.md                   |  30 +++
+ ...\342\201\251 you can delete Imron 1Password.md" |   0
+ inbox/Add X to subscribtions.md                    |   0
+ ...s likes for website, deck, also use new logo.md |   0
+ ... it a website, give it the raw images also)..md |   0
+ inbox/Budget starlink due ca 19th of the month.md  |   0
+ inbox/Build micro saas.md                          |   1 +
+ inbox/Cloudflare etc email approved qm.md          |   0
+ inbox/For practice folder.md                       |  88 ++++++++
+ inbox/Fully run ai business.md                     |   1 +
+ inbox/FunDeFi idea to get projectd.md              |  22 ++
+ inbox/Gmail n8n.md                                 |   1 +
+ inbox/Liquidity Provider Jelena crowd.md           |   0
+ ...inancing, and see how much money needed when.md |   0
+ inbox/Nddjdj.md                                    |   0
+ inbox/New Android 222.md                           |   1 +
+ ... strategic partnership integration affiliate.md |   0
+ inbox/Sadhana during daily life.md                 | 250 +++++++++++++++++++++
+ inbox/Sadhana.md                                   | 108 +++++++++
+ inbox/Skills.google.md                             |   0
+ inbox/Test inbox new.md                            |   1 +
+ inbox/To practice folder.md                        | 113 ++++++++++
+ inbox/Uodate Gilles Jour fixe to 10am.md           |   0
+ inbox/Use for marketing.md                         |   1 +
+ inbox/Want to study and practice Zen breathing..md |   1 +
+ inbox/newonmac.md                                  |   1 +
+ scripts/add-issues-to-projects.sh                  |   0
+ scripts/fireflies-import.py                        |   0
+ scripts/move-to-project-7-fixed.sh                 |   0
+ scripts/move-to-project-7.sh                       |   0
+ scripts/process-fireflies-webhook.js               |   0
+ 32 files changed, 619 insertions(+)
+ mode change 100755 => 100644 .auto-sync.sh
+ create mode 100644 inbox/2025-10-20-initial-dump.md
+ create mode 100644 "inbox/@\342\201\250Simon\342\201\251 you can delete Imron 1Password.md"
+ create mode 100644 inbox/Add X to subscribtions.md
+ create mode 100644 inbox/AkunIndo use color Gilles likes for website, deck, also use new logo.md
+ create mode 100644 inbox/And today, Friday, to also work on presentation (maybe not Genspark but put old Genspark deck FavOS into claude and make it a website, give it the raw images also)..md
+ create mode 100644 inbox/Budget starlink due ca 19th of the month.md
+ create mode 100644 inbox/Build micro saas.md
+ create mode 100644 inbox/Cloudflare etc email approved qm.md
+ create mode 100644 inbox/For practice folder.md
+ create mode 100644 inbox/Fully run ai business.md
+ create mode 100644 inbox/FunDeFi idea to get projectd.md
+ create mode 100644 inbox/Gmail n8n.md
+ create mode 100644 inbox/Liquidity Provider Jelena crowd.md
+ create mode 100644 inbox/Make clear deadlines for all the projects etc. And also ask JanF for bridge financing, and see how much money needed when.md
+ create mode 100644 inbox/Nddjdj.md
+ create mode 100644 inbox/New Android 222.md
+ create mode 100644 inbox/Printora task Simon create meeting John fiddle.art strategic partnership integration affiliate.md
+ create mode 100644 inbox/Sadhana during daily life.md
+ create mode 100644 inbox/Sadhana.md
+ create mode 100644 inbox/Skills.google.md
+ create mode 100644 inbox/Test inbox new.md
+ create mode 100644 inbox/To practice folder.md
+ create mode 100644 inbox/Uodate Gilles Jour fixe to 10am.md
+ create mode 100644 inbox/Use for marketing.md
+ create mode 100644 inbox/Want to study and practice Zen breathing..md
+ create mode 100644 inbox/newonmac.md
+ mode change 100755 => 100644 scripts/add-issues-to-projects.sh
+ mode change 100755 => 100644 scripts/fireflies-import.py
+ mode change 100755 => 100644 scripts/move-to-project-7-fixed.sh
+ mode change 100755 => 100644 scripts/move-to-project-7.sh
+ mode change 100755 => 100644 scripts/process-fireflies-webhook.js
+[2025-10-26 15:19:09] Pull successful
+[2025-10-26 15:19:09] Changes detected, committing...
