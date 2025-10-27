@@ -23,11 +23,15 @@
 - 4:30-5:30 PM: SD Team Call (Jan, Christoph)
 - 10:00-11:00 PM: Evening Ritual
 
-### 📥 Quick Actions
+### 🔴 CRITICAL TODAY
+- [ ] **Finish FunDeFi pitch deck** (MUST DO before responding to Brent!)
+- [ ] **Respond to Brent** (after pitch deck done)
 - [ ] Get Nhung & Thuy GitHub usernames (in meeting NOW!)
+
+### 📥 Quick Actions
 - [ ] Process inbox (15 items)
 - [ ] Follow up with Brendan & Yose
-- [ ] Update tomorrow's plan
+- [ ] Plan tomorrow (FunDeFi discussion with Thuy)
 
 ---
 
@@ -91,10 +95,25 @@
 
 ---
 
-## 📅 This Week's Focus (Week 43)
+## 📅 Tomorrow: Monday, Oct 28
 
-### Critical for Monday (Oct 28)
-- [ ] Get Nhung & Thuy GitHub usernames
+### 🔥 Top 3 MITs
+1. **FunDeFi Mechanics Discussion with Thuy** - Pitch deck, Werner CMC, Base team member benefits
+2. **AkunIndo Tasks** - Check Yosua's progress, work on website myself
+3. **Onboard Nhung & Thuy to GitHub** - Use usernames from today's meeting
+
+### Priority Tasks
+**FunDeFi**:
+- [ ] Discuss with Thuy: mechanics, pitch deck, Werner CMC, Base team member
+- [ ] Update FunDeFi pitch deck
+- [ ] Document team member benefits structure
+
+**AkunIndo**:
+- [ ] Check Yosua's mobile optimization status
+- [ ] Work on AkunIndo website tasks myself
+- [ ] Review AkunIndo pitch deck
+
+**Printora**:
 - [ ] Finish Project #5 setup (8 operations issues)
 - [ ] Verify Project #7 working in web UI
 - [ ] Plan team standup agenda
@@ -104,7 +123,7 @@
 - [ ] Delete Imron from 1Password
 - [ ] Add X to subscriptions
 - [ ] Update Gilles meeting to 10am
-- [ ] Budget Starlink reminder (19th monthly)
+- [ ] Follow up: Brendan Lucas, Yose Rizal
 
 ---
 
