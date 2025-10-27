@@ -6,23 +6,35 @@
 
 ---
 
-## 🎯 Today: [[2025-10-26]]
+## 🎯 Today: [[2025-10-27]] (Sunday)
 
-**Current Time**: Saturday, 4:36 PM (Asia/Makassar)
+**Current Time**: 2:15 PM (Asia/Makassar)
 
-### Quick Status
-- ✅ Root folder cleaned (23 → 5 files)
-- ✅ Inbox processed to zero (27 items)
-- ✅ All integrations working (Fireflies, Calendar, Reclaim, GitHub)
-- 🏊 Swim at 6:00 PM
-- 🌙 Evening ritual at 10:00 PM
+### 🔥 Top 3 MITs
+1. ✅ Brendan Lucas Meeting (10am) - Starboard Finance partnership
+2. ✅ Yose Rizal Meeting (11:30am) - MWX AI opportunity
+3. **⏰ Team Meeting (2-5pm NOW)** - GET Nhung & Thuy GitHub usernames!
+
+### 📅 Today's Schedule
+- ✅ 10:00-10:30: Brendan Lucas (Starboard Finance) - @csnormie on Telegram
+- ✅ 11:30-12:00: Yose Rizal (MWX AI) - Yoseazka on Telegram
+- **⏰ 2:00-5:00 PM: Team Meeting (CURRENT)** - Kevin, Eko, Yosua
+- 4:00-5:00 PM: Dev Team Meeting (overlaps)
+- 4:30-5:30 PM: SD Team Call (Jan, Christoph)
+- 10:00-11:00 PM: Evening Ritual
+
+### 📥 Quick Actions
+- [ ] Get Nhung & Thuy GitHub usernames (in meeting NOW!)
+- [ ] Process inbox (15 items)
+- [ ] Follow up with Brendan & Yose
+- [ ] Update tomorrow's plan
 
 ---
 
 ## 📊 Quick Links
 
 ### Time-Based
-- **Today**: [daily/2025-10-26.md](daily/2025-10-26.md)
+- **Today**: [daily/2025-10-27.md](daily/2025-10-27.md) - Detailed schedule
 - **Daily Notes**: [daily/](daily/) - Daily MIT, tasks, and notes
 - **Weekly**: [weekly/](weekly/) - Weekly goals and reviews
 - **Monthly**: [monthly/](monthly/) - Monthly objectives
@@ -34,7 +46,7 @@
   - [AkunIndo](projects/akunindo/) - Branding updates
   - [Micro SaaS](projects/micro-saas/) - Academy course
 - **Meetings**: [meetings/](meetings/) - Meeting notes and action items
-- **Inbox**: [inbox/](inbox/) - **✅ ZERO** - Quick capture ready!
+- **Inbox**: [inbox/](inbox/) - **📥 15 items** - Ready to process
 - **Templates**: [templates/](templates/) - File templates
 - **Planning**: [planning/](planning/) - Project deadlines & strategy
 
@@ -131,8 +143,8 @@
 
 ### Folder Structure
 ```
-/Users/simon/git/simon/
-├── index.md                 ← You are here
+/Users/simon/git/productivity-system/
+├── index.md                 ← 🏠 HOME - You are here
 ├── README.md               ← Git repo info
 ├── DELEGATIONS.md          ← Active delegations
 ├── WIP.md                  ← Work in progress
@@ -198,23 +210,27 @@
 
 ## 📈 System Stats
 
-**Last Organized**: October 26, 2025
-**Files Managed**: ~100+
+**Last Organized**: October 27, 2025
+**Files Managed**: 381 (consolidated from /simon)
 **Active Projects**: 6
-**Inbox Status**: ✅ Zero
+**Inbox Status**: 📥 15 items to process
 **Integration Health**: 🟢 All Green
-**Obsidian Sync**: 🟢 Working (Desktop + Android)
+**Obsidian Sync**: 🟢 Working (Desktop + Mobile)
+**Repository**: /Users/simon/git/productivity-system
 
 ---
 
 ## 🎉 Recent Wins
 
+- ✅ **Oct 27**: Consolidated /simon → /productivity-system (381 files)
+- ✅ **Oct 27**: Set up global + project Claude Code configs
+- ✅ **Oct 27**: Auto-approved Google Calendar & Fireflies MCPs
+- ✅ **Oct 27**: Created HOME dashboard in index.md
 - ✅ **Oct 26**: Root folder cleaned, inbox to zero, all organized
 - ✅ **Oct 25**: 20 Printora issues created, AI Productivity System built
-- ✅ **Oct 25**: Bali team meeting processed (20 action items)
 - ✅ **Oct 23**: Fireflies + all MCPs working
 
 ---
 
-**Last Updated**: 2025-10-26 16:36
+**Last Updated**: 2025-10-27 14:15
 **Next Review**: Weekly (Sunday evenings)
