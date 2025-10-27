@@ -25,7 +25,7 @@
 
 ### 🔴 CRITICAL TODAY
 - [ ] **Finish FunDeFi pitch deck** (MUST DO before responding to Brent!)
-- [ ] **Respond to Brent** (after pitch deck done)
+- [ ] **Respond to Brent about FunDeFi** (after pitch deck done)
 - [ ] Get Nhung & Thuy GitHub usernames (in meeting NOW!)
 
 ### 📥 Quick Actions
@@ -109,9 +109,11 @@
 - [ ] Document team member benefits structure
 
 **AkunIndo**:
-- [ ] Check Yosua's mobile optimization status
-- [ ] Work on AkunIndo website tasks myself
-- [ ] Review AkunIndo pitch deck
+- [ ] Pitch deck update - ADD PHOTOS (#8)
+- [ ] Check Yosua: mobile optimization (#4), photos (#11)
+- [ ] Website tasks: terms, privacy policy, production review
+- [ ] Social media setup (#6) - admin@akunindo.com
+- [ ] Meta Ads account setup (#5)
 
 **Printora**:
 - [ ] Finish Project #5 setup (8 operations issues)
