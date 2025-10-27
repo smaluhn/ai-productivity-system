@@ -1,0 +1,32 @@
+# Printora Project Aliases
+# Source this file in your ~/.zshrc or ~/.bashrc:
+# echo "source ~/git/productivity-system/.aliases" >> ~/.zshrc
+
+# Navigation aliases
+alias pr='cd ~/git/printora'
+alias prm='cd ~/git/printora-marketing'
+alias prs='cd ~/git/printora-spec-docs'
+alias ps='cd ~/git/productivity-system'
+
+# Utility aliases
+alias pr-status='~/git/productivity-system/scripts/printora-status.sh'
+alias pr-sync='~/git/productivity-system/scripts/weekly-sync.sh'
+alias pr-workspace='code ~/git/printora-workspace.code-workspace'
+
+# Git shortcuts
+alias pr-git='cd ~/git/printora && git status'
+alias prm-git='cd ~/git/printora-marketing && git status'
+alias prs-git='cd ~/git/printora-spec-docs && git status'
+
+# GitHub shortcuts
+alias pr-issues='gh issue list --repo Printora/printora'
+alias prm-issues='gh issue list --repo Printora/printora-marketing'
+alias pr-projects='gh project list --owner Printora'
+
+# Quick project views
+alias pr-dev='gh project view 10 --owner Printora'
+alias pr-ops='gh project view 5 --owner Printora'
+alias pr-growth='gh project view 11 --owner Printora'
+
+echo "✅ Printora aliases loaded!"
+echo "Try: pr, prm, ps, pr-status, pr-sync, pr-workspace"
