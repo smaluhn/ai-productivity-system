@@ -11,22 +11,23 @@
 **Current Time**: Auto-synced (Asia/Makassar)
 
 ### 🔥 Top 3 MITs
-1. ✅ Brendan Lucas Meeting (10am) - Starboard Finance partnership
-2. ✅ Yose Rizal Meeting (11:30am) - MWX AI opportunity
-3. **⏰ Team Meeting (2-5pm NOW)** - GET Nhung & Thuy GitHub usernames!
+1. [ ] **FunDeFi Mechanics Discussion with Thuy** - Pitch deck, Werner CMC, Base team member benefits
+2. [ ] **AkunIndo Tasks** - Check Yosua's progress, work on website tasks
+3. [ ] **Onboard Nhung & Thuy to GitHub** - Use usernames from yesterday's meeting
 
 ### 📅 Today's Schedule
-- ✅ 10:00-10:30: Brendan Lucas (Starboard Finance) - @csnormie on Telegram
-- ✅ 11:30-12:00: Yose Rizal (MWX AI) - Yoseazka on Telegram
-- **⏰ 2:00-5:00 PM: Team Meeting (CURRENT)** - Kevin, Eko, Yosua
-- 4:00-5:00 PM: Dev Team Meeting (overlaps)
-- 4:30-5:30 PM: SD Team Call (Jan, Christoph)
+- Setup MacBook Air for development
+- Create Mindfool GitHub org
+- FunDeFi discussion with Thuy
+- AkunIndo website tasks
+- 7:30 PM: Werner meeting (Coinquill/FunDeFi CMC)
 - 10:00-11:00 PM: Evening Ritual
 
 ### 🔴 CRITICAL TODAY
-- [ ] **Finish FunDeFi pitch deck** (MUST DO before responding to Brent!)
-- [ ] **Respond to Brent about FunDeFi** (after pitch deck done)
-- [ ] Get Nhung & Thuy GitHub usernames (in meeting NOW!)
+- [ ] **Create Mindfool GitHub org** - Add both users, Claude Code integration
+- [ ] **Finish FunDeFi pitch deck v2** - Discuss with Thuy first
+- [ ] **Respond to Brent about FunDeFi** - Send completed pitch deck (overdue!)
+- [ ] **Setup MacBook Air** - Restart, dev environment, Obsidian sync
 
 ### 📥 Inbox & Communications
 - 🔴 **PRIORITY INBOX**: Enable GitHub Discussions (high prio!)
@@ -42,19 +43,42 @@
 
 ---
 
+## ⭐ Priority Items Across All Projects
+
+### 🔥 Blocking/Critical
+1. **FunDeFi**: Brent response overdue - need pitch deck v2 ([fundefi view](projects/fundefi-view.md))
+2. **FunDeFi**: Anjelito emissions design - blocks all contracts ([waiting.md](waiting.md))
+3. **Printora**: Nhung & Thuy GitHub onboarding - blocking work ([printora view](projects/printora-view.md))
+4. **Mindfool**: GitHub org creation - needed today ([mindfool view](projects/mindfool-view.md))
+
+### ⚡ High Priority
+1. **AkunIndo**: Pitch deck photos update (oct 28) ([akunindo view](projects/akunindo-view.md))
+2. **AkunIndo**: Payment gateway decision (xendit/doku)
+3. **Printora**: Project #5 & #7 setup completion
+4. **Personal**: MacBook Air development setup
+
+---
+
 ## 📊 Quick Links
 
 ### Time-Based
-- **Today**: [daily/2025-10-27.md](daily/2025-10-27.md) - Detailed schedule
+- **Today**: [daily/2025-10-28.md](daily/2025-10-28.md) - Detailed schedule
 - **Daily Notes**: [daily/](daily/) - Daily MIT, tasks, and notes
 - **Weekly**: [weekly/](weekly/) - Weekly goals and reviews
 - **Monthly**: [monthly/](monthly/) - Monthly objectives
+
+### Project Views (🆕)
+- **Printora**: [printora-view.md](projects/printora-view.md) - MVP launch, EOW goals, team tasks
+- **FunDeFi**: [fundefi-view.md](projects/fundefi-view.md) - Pitch deck, fairlaunch, waiting items
+- **AkunIndo**: [akunindo-view.md](projects/akunindo-view.md) - Branding, website, marketing
+- **Mindfool**: [mindfool-view.md](projects/mindfool-view.md) - New project setup
 
 ### Organization
 - **Projects**: [projects/](projects/) - Active project tracking
   - [Printora](projects/printora/) - Launch Phase
   - [FunDe.Fi](projects/funde-fi/) - Referral program opportunity
   - [AkunIndo](projects/akunindo/) - Branding updates
+  - [Mindfool](projects/mindfool/) - New project (setup today)
   - [Micro SaaS](projects/micro-saas/) - Academy course
 - **Meetings**: [meetings/](meetings/) - Meeting notes and action items
 - **inbox**: [inbox.md](inbox.md) - **📥 13 items (1 priority!)** - [folder](inbox/)
@@ -245,28 +269,47 @@
 
 ## 📈 System Stats
 
-**Last Organized**: October 27, 2025
-**Files Managed**: 381 (consolidated from /simon)
-**Active Projects**: 6
-**Inbox Status**: 📥 15 items to process
+**Last Organized**: October 28, 2025
+**Files Managed**: 381+ (consolidated from /simon)
+**Active Projects**: 7 (Printora, FunDeFi, AkunIndo, Mindfool, FavOS, Launchpad, Micro SaaS)
+**Project Views**: ✅ 4 views created (Printora, FunDeFi, AkunIndo, Mindfool)
+
+### 📥 Inbox Status
+- **Total Items**: 13
+- **Priority**: 1 (GitHub Discussions)
+- **Last Processed**: 2025-10-27
+- **Newest Item**: 2025-10-27 21:47
+- **Target**: Process to zero daily
+
+### 👥 Team & Waiting
+- **Total Waiting**: 15 items (6 high priority)
+- **Team Tasks**: 26 delegations across 6 team members
+- **Overloaded**: Kevin (14 tasks) ⚠️
+- **Blocked**: Eko (2 tasks), Nhung (3 tasks)
+
+### 🔧 System Health
 **Integration Health**: 🟢 All Green
 **Obsidian Sync**: 🟢 Working (Desktop + Mobile)
 **Repository**: /Users/simon/git/productivity-system
+**Auto-Sync**: ✅ Enabled
 
 ---
 
 ## 🎉 Recent Wins
 
+- ✅ **Oct 28**: Created 4 project view files (Printora, FunDeFi, AkunIndo, Mindfool)
+- ✅ **Oct 28**: Enhanced index.md with priority items & inbox metadata
+- ✅ **Oct 28**: Added X to budget subscriptions
+- ✅ **Oct 27**: Completed 1Password cleanup tasks
+- ✅ **Oct 27**: Updated Gilles meeting to 10am
 - ✅ **Oct 27**: Created 3-file system (index.md, inbox.md, WAITING.md)
 - ✅ **Oct 27**: Set up messenger organization systems (WA/TG/LI)
 - ✅ **Oct 27**: Consolidated /simon → /productivity-system (381 files)
-- ✅ **Oct 27**: Set up global + project Claude Code configs
-- ✅ **Oct 27**: Auto-approved Google Calendar & Fireflies MCPs
 - ✅ **Oct 26**: Root folder cleaned, inbox to zero, all organized
 - ✅ **Oct 25**: 20 Printora issues created, AI Productivity System built
-- ✅ **Oct 23**: Fireflies + all MCPs working
 
 ---
 
-**Last Updated**: 2025-10-27 14:15
+**Last Updated**: 2025-10-28 (auto-synced)
 **Next Review**: Weekly (Sunday evenings)
+**Daily Updates**: Morning & Evening routines
