@@ -3,7 +3,7 @@
 # Auto-sync script for git repository
 # Runs every 15 minutes to pull and push changes
 
-REPO_DIR="/Users/simon/git/simon"
+REPO_DIR="/Users/simon/git/productivity-system"
 LOG_FILE="$REPO_DIR/.auto-sync.log"
 
 # Function to log with timestamp

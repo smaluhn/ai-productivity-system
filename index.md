@@ -28,10 +28,15 @@
 - [ ] **Respond to Brent about FunDeFi** (after pitch deck done)
 - [ ] Get Nhung & Thuy GitHub usernames (in meeting NOW!)
 
-### 📥 Quick Actions
-- [ ] Process inbox (15 items)
+### 📥 Inbox & Communications
+- 🔴 **PRIORITY INBOX**: Enable GitHub Discussions (high prio!)
+- [ ] Process inbox: 13 items ([View inbox.md](inbox.md))
+  - 1 priority, 6 need action, 5 ready to organize
+- [ ] **Daily Comms Check** (Morning & Evening):
+  - 💬 WhatsApp: Check & respond
+  - ✈️ Telegram: Check & respond
+  - 💼 LinkedIn: Check & respond
 - [ ] Follow up with Brendan & Yose
-- [ ] Plan tomorrow (FunDeFi discussion with Thuy)
 
 ---
 
@@ -50,7 +55,7 @@
   - [AkunIndo](projects/akunindo/) - Branding updates
   - [Micro SaaS](projects/micro-saas/) - Academy course
 - **Meetings**: [meetings/](meetings/) - Meeting notes and action items
-- **Inbox**: [inbox/](inbox/) - **📥 15 items** - Ready to process
+- **Inbox**: [inbox.md](inbox.md) - **📥 13 items (1 priority!)** - [Folder](inbox/)
 - **Templates**: [templates/](templates/) - File templates
 - **Planning**: [planning/](planning/) - Project deadlines & strategy
 
