@@ -32,11 +32,13 @@
 - 🔴 **PRIORITY INBOX**: Enable GitHub Discussions (high prio!)
 - [ ] Process inbox: 13 items ([View inbox.md](inbox.md))
   - 1 priority, 6 need action, 5 ready to organize
+- 🔥 **WAITING FOR** (6 priority items): [View WAITING.md](WAITING.md)
+  - Brent (FunDeFi - OVERDUE), Nhung/Thuy (GitHub usernames TODAY)
+  - Anjelito (Emissions), Brendan/Yose (Follow-ups Oct 28)
 - [ ] **Daily Comms Check** (Morning & Evening):
   - 💬 WhatsApp: Check & respond
   - ✈️ Telegram: Check & respond
   - 💼 LinkedIn: Check & respond
-- [ ] Follow up with Brendan & Yose
 
 ---
 
@@ -56,6 +58,8 @@
   - [Micro SaaS](projects/micro-saas/) - Academy course
 - **Meetings**: [meetings/](meetings/) - Meeting notes and action items
 - **Inbox**: [inbox.md](inbox.md) - **📥 13 items (1 priority!)** - [Folder](inbox/)
+- **Waiting For**: [WAITING.md](WAITING.md) - **🔥 6 priority responses needed**
+- **Delegations**: [DELEGATIONS.md](DELEGATIONS.md) - Team tasks & workload
 - **Templates**: [templates/](templates/) - File templates
 - **Planning**: [planning/](planning/) - Project deadlines & strategy
 
@@ -170,12 +174,14 @@
 ### Folder Structure
 ```
 /Users/simon/git/productivity-system/
-├── index.md                 ← 🏠 HOME - You are here
+├── index.md                 ← 🏠 HOME - Open daily
+├── inbox.md                ← 📥 Process queue - Open daily
+├── WAITING.md              ← ⏰ Waiting for/delegated - Open daily
+├── DELEGATIONS.md          ← 👥 Full team delegations
 ├── README.md               ← Git repo info
-├── DELEGATIONS.md          ← Active delegations
 ├── WIP.md                  ← Work in progress
 │
-├── daily/                  ← Daily notes
+├── daily/                  ← Daily notes (detailed reference)
 ├── weekly/                 ← Weekly reviews
 ├── monthly/                ← Monthly planning
 │
@@ -186,7 +192,7 @@
 │   └── micro-saas/
 │
 ├── meetings/               ← Meeting notes
-├── inbox/                  ← Quick capture (✅ ZERO)
+├── inbox/                  ← Quick capture folder
 ├── templates/              ← File templates
 ├── planning/               ← Strategy docs
 │
@@ -206,22 +212,26 @@
 ## 📝 Daily Workflow
 
 ### Morning Routine (Start of Day)
-1. Open `daily/TODAY.md` (auto-created)
-2. Review calendar + set 3 MITs
-3. Check inbox for new captures
-4. Review weekly goals
+1. Open **3 core files**: `index.md`, `inbox.md`, `WAITING.md`
+2. Review `daily/TODAY.md` for detailed schedule
+3. Check **Daily Comms** (WA/TG/LI) - respond to priority items
+4. Review calendar + set 3 MITs
+5. Review weekly goals
 
 ### Throughout Day
 1. Capture to inbox (quick notes)
 2. Update task status in daily note
 3. Process meetings via Fireflies
 4. Update GitHub issues
+5. Update WAITING.md when sending messages that need follow-up
 
 ### Evening Routine (End of Day)
 1. Complete daily review
 2. Process inbox to zero
-3. Plan tomorrow's top 3
-4. Sync to Obsidian (auto)
+3. Update WAITING.md with today's outgoing messages
+4. Check all platforms (WA/TG/LI) and mark responses received
+5. Plan tomorrow's top 3
+6. Sync to Obsidian (auto)
 
 ---
 
@@ -248,10 +258,11 @@
 
 ## 🎉 Recent Wins
 
+- ✅ **Oct 27**: Created 3-file system (index.md, inbox.md, WAITING.md)
+- ✅ **Oct 27**: Set up messenger organization systems (WA/TG/LI)
 - ✅ **Oct 27**: Consolidated /simon → /productivity-system (381 files)
 - ✅ **Oct 27**: Set up global + project Claude Code configs
 - ✅ **Oct 27**: Auto-approved Google Calendar & Fireflies MCPs
-- ✅ **Oct 27**: Created HOME dashboard in index.md
 - ✅ **Oct 26**: Root folder cleaned, inbox to zero, all organized
 - ✅ **Oct 25**: 20 Printora issues created, AI Productivity System built
 - ✅ **Oct 23**: Fireflies + all MCPs working
