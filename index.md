@@ -32,9 +32,9 @@
 - 🔴 **PRIORITY INBOX**: Enable GitHub Discussions (high prio!)
 - [ ] Process inbox: 13 items ([View inbox.md](inbox.md))
   - 1 priority, 6 need action, 5 ready to organize
-- 🔥 **WAITING FOR** (6 priority items): [View WAITING.md](WAITING.md)
-  - Brent (FunDeFi - OVERDUE), Nhung/Thuy (GitHub usernames TODAY)
-  - Anjelito (Emissions), Brendan/Yose (Follow-ups Oct 28)
+- 🔥 **waiting for** (6 priority items): [view waiting.md](waiting.md)
+  - brent (fundefi - overdue), nhung/thuy (github usernames today)
+  - anjelito (emissions), brendan/yose (follow-ups oct 28)
 - [ ] **Daily Comms Check** (Morning & Evening):
   - 💬 WhatsApp: Check & respond
   - ✈️ Telegram: Check & respond
@@ -57,9 +57,8 @@
   - [AkunIndo](projects/akunindo/) - Branding updates
   - [Micro SaaS](projects/micro-saas/) - Academy course
 - **Meetings**: [meetings/](meetings/) - Meeting notes and action items
-- **Inbox**: [inbox.md](inbox.md) - **📥 13 items (1 priority!)** - [Folder](inbox/)
-- **Waiting For**: [WAITING.md](WAITING.md) - **🔥 6 priority responses needed**
-- **Delegations**: [DELEGATIONS.md](DELEGATIONS.md) - Team tasks & workload
+- **inbox**: [inbox.md](inbox.md) - **📥 13 items (1 priority!)** - [folder](inbox/)
+- **waiting for & delegated**: [waiting.md](waiting.md) - **🔥 6 priority + 26 team tasks**
 - **Templates**: [templates/](templates/) - File templates
 - **Planning**: [planning/](planning/) - Project deadlines & strategy
 
@@ -211,27 +210,27 @@
 
 ## 📝 Daily Workflow
 
-### Morning Routine (Start of Day)
-1. Open **3 core files**: `index.md`, `inbox.md`, `WAITING.md`
-2. Review `daily/TODAY.md` for detailed schedule
-3. Check **Daily Comms** (WA/TG/LI) - respond to priority items
-4. Review calendar + set 3 MITs
-5. Review weekly goals
+### morning routine (start of day)
+1. open **3 core files**: `index.md`, `inbox.md`, `waiting.md`
+2. review `daily/TODAY.md` for detailed schedule
+3. check **daily comms** (wa/tg/li) - respond to priority items
+4. review calendar + set 3 mits
+5. review weekly goals
 
-### Throughout Day
-1. Capture to inbox (quick notes)
-2. Update task status in daily note
-3. Process meetings via Fireflies
-4. Update GitHub issues
-5. Update WAITING.md when sending messages that need follow-up
+### throughout day
+1. capture to inbox (quick notes)
+2. update task status in daily note
+3. process meetings via fireflies
+4. update github issues
+5. update waiting.md when sending messages that need follow-up
 
-### Evening Routine (End of Day)
-1. Complete daily review
-2. Process inbox to zero
-3. Update WAITING.md with today's outgoing messages
-4. Check all platforms (WA/TG/LI) and mark responses received
-5. Plan tomorrow's top 3
-6. Sync to Obsidian (auto)
+### evening routine (end of day)
+1. complete daily review
+2. process inbox to zero
+3. update waiting.md with today's outgoing messages
+4. check all platforms (wa/tg/li) and mark responses received
+5. plan tomorrow's top 3
+6. sync to obsidian (auto)
 
 ---
 
