@@ -39,10 +39,11 @@
 - [ ] **document team benefits** - structure for werner & base team member
 
 ### strategic planning
-- [ ] explore bio referral program ($2k per researcher)
+- [ ] explore bio referral program ($2k per researcher) - refer researchers launching on Bio, earn 20K BIO tokens
 - [ ] analyze metadao & echo launchpad as benchmarks
 - [ ] fairlaunch strategy - raise from multiple launchpads
 - [ ] otc raise planning (need to reserve tokens)
+- [ ] team structure: werner (cmc cmo/cbdo), base team member (cmo/cbdo/so), cto?, ceo? - define benefits
 
 ---
 
