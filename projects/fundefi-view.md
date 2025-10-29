@@ -156,8 +156,31 @@
 - **github org:** https://github.com/FUNDEdotFI
 - **github project:** https://github.com/orgs/FUNDEdotFI/projects/2
 - **local code:** /Users/simon/git/PROJECTS/fundefi
+- **how it works:** [fundefi-how-it-works.md](fundefi-how-it-works.md) - Complete user journey
 - **full task list:** [waiting.md](../waiting.md#anjelito-onebigstar3---2-tasks--critical)
 - **home dashboard:** [index.md](../index.md)
+
+---
+
+## 📋 OTC Deal Requirements (For Post-TGE)
+
+### Tier 2 Target ($300K-$3M per investor)
+**Core Requirements:**
+- Post-TGE OTC fundraising
+- High quality project
+
+**CEX Route:**
+- Listed on MEXC minimum
+- Volume: >$200K/day
+- Market cap: >$1M
+
+**DEX Route:**
+- Volume: >$100K/day
+- Market cap: >$1M
+
+**Investment Structure:**
+- Daily fully unlock OR
+- Hourly fully unlock
 
 ---
 
