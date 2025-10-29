@@ -6,6 +6,17 @@
 
 ---
 
+## 🔴 PRIORITY INBOX ITEMS
+
+**⚠️ 2 Priority items need attention!**
+
+1. 🔴 [Github enable Discussions. Process this note immediately high Prio.md](inbox/Github%20enable%20Discussions.%20Process%20this%20note%20immediately%20high%20Prio.md) - Empty file, needs action
+2. 🔴 [Prio file crated on anddroid.md](inbox/Prio%20file%20crated%20on%20anddroid.md) - Created today on Android
+
+📥 [View full inbox (16 items)](inbox.md)
+
+---
+
 ## 🎯 Today: [[2025-10-28]] (Monday)
 
 **Current Time**: Auto-synced (Asia/Makassar)
