@@ -40,9 +40,9 @@
 
 ### strategic planning
 - [ ] explore bio referral program ($2k per researcher) - refer researchers launching on Bio, earn 20K BIO tokens
-- [ ] analyze metadao & echo launchpad as benchmarks
-- [ ] fairlaunch strategy - raise from multiple launchpads
-- [ ] otc raise planning (need to reserve tokens)
+- [ ] **analyze metadao strategy** - futarchy governance, post-TGE OTC deals at spot/premium, no VC discounts
+- [ ] **plan post-TGE OTC deals** - reserve 10-15% supply for $2-3M VC raises 1-3 months after launch
+- [ ] fairlaunch strategy - raise $500-700K from multiple launchpads
 - [ ] team structure: werner (cmc cmo/cbdo), base team member (cmo/cbdo/so), cto?, ceo? - define benefits
 
 ---
@@ -114,15 +114,40 @@
 - target: researchers seeking $50-500k funding
 
 ### benchmark launchpads
-- **metadao** - analyze tony drummond's approach
+- **metadao** - futarchy governance model, post-TGE OTC strategy
 - **echo launchpad** - competitive analysis
 - potential: tony drummond as advisor
 
-### fairlaunch strategy
-- launch now → raise with many launchpads
-- achieve high ath for funde token
-- enable otc raises (reserve tokens!)
-- easier fundraising for future projects
+### two-phase fundraising strategy
+
+**phase 1: fair launch (pre-tge)**
+- 7 launchpads: target $500-700k
+- no vc pre-sales, no discounts
+- community-first approach
+- selena finance vesting model (25% tokens + 75% ve nfts)
+
+**phase 2: post-tge otc deals (1-3 months after launch)**
+- **reserve 10-15% of total supply** for strategic vc raises
+- **target: $2-3m from top-tier vcs** (paradigm, variant, framework, dragonfly)
+- **pricing: spot market or 10-20% premium only** (no discounts!)
+- **minimal/no vesting** (vcs buy at market = no dump risk)
+- **twap execution** (24-48 hour gradual purchase)
+- **dao governance approval** required for each deal
+- **benefits:**
+  - additional capital without pre-tge dilution
+  - vc validation post-launch (marketing value)
+  - no dump risk (bought at premium)
+  - community controls pricing
+
+**total potential raise: $2.5-3.7m** ($700k fair launch + $2-3m otc)
+
+### metadao learnings (applied to fundefi)
+1. **no vc discounts** - community rejected 30% discount deal, vcs paid spot/premium
+2. **transparent otc process** - all deals public, dao-approved
+3. **futarchy governance** - market-driven decisions (could integrate later)
+4. **pay-for-performance** - insider unlocks tied to price performance
+5. **unruggable structure** - ip, treasury, minting controlled by dao
+6. **high-float ico** - launch early, grow over time (not high fdv low float)
 
 ---
 

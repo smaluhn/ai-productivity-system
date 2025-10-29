@@ -114,14 +114,24 @@
 
 ## Action Items
 
+### Immediate
 - [ ] Create detailed budget breakdown (300K operations + 200K reserves)
 - [ ] Finalize tokenomics using Selena model (25% tokens + 75% VE NFTs)
+- [ ] **Reserve 10-15% supply for post-TGE OTC deals** (MetaDAO strategy)
 - [ ] Contact Base foundation for support/social media endorsement
 - [ ] Define team roles: Werner (CMO), Base team member (CMO/CBDO), CTO, CEO
 - [ ] Calculate exact liquidity needs (25-30% of raise)
 - [ ] Research market maker options (3K/month budget)
 - [ ] Plan marketing strategy (airdrop/referral focused, not KOLs)
-- [ ] Determine if using separate social media or continuing from Favos
+- [ ] Create separate social media for FunDeFi (not Favos)
+
+### Post-TGE Strategy (1-3 months after launch)
+- [ ] **Plan post-TGE OTC fundraise: $2-3M from VCs**
+- [ ] Target VCs: Paradigm, Variant, Framework, Dragonfly
+- [ ] Structure: Spot market price or 10-20% premium
+- [ ] Execution: TWAP method (24-48 hours)
+- [ ] Governance: DAO approval required for each deal
+- [ ] Minimal/no vesting (since buying at premium)
 
 ---
 
@@ -132,6 +142,34 @@
 3. **Foundation backing essential** - Need Base or other L1 to endorse for launchpad acceptance
 4. **Revenue becomes operational funding** - Once profitable, use fees to run business
 5. **Unique token model** - VE NFT approach reduces sell pressure and aligns incentives
+6. **Two-phase fundraising strategy** - Fair launch ($500-700K) + post-TGE OTC deals ($2-3M)
+7. **MetaDAO playbook** - VCs buy at spot/premium post-launch, no pre-TGE dilution, DAO-controlled
+
+---
+
+## 🎯 MetaDAO Strategy (Applied to FunDeFi)
+
+**Why It Works:**
+- MetaDAO raised $9.9M from Paradigm, Variant, 6MV AFTER token launch
+- VCs paid $6.35-$8.60 per token (spot or premium prices)
+- No vesting = no dump risk (they bought at market!)
+- Community governance rejected 30% discount deals
+- Transparent, DAO-approved OTC process
+
+**FunDeFi Application:**
+1. **Phase 1**: Fair launch $500-700K (7 launchpads)
+2. **Phase 2**: Post-TGE OTC $2-3M (1-3 months later)
+3. **Reserve**: 10-15% supply for strategic VCs
+4. **Pricing**: Spot market or premium only
+5. **Structure**: TWAP execution, DAO approval
+6. **Total**: $2.5-3.7M raised without pre-TGE dilution
+
+**Key Learnings:**
+- High-float ICO better than high FDV/low float
+- Pay-for-performance: insider unlocks tied to price
+- Unruggable: DAO controls IP, treasury, minting
+- No VC discounts = aligned incentives
+- Futarchy governance = market-driven decisions
 
 ---
 
