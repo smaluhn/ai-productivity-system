@@ -1,7 +1,7 @@
 # COMPLETE SLIDE DECK - Content for PowerPoint
 ## "Business & Operational Value: Making AI Work for Tourism"
 
-**10 slides total - Copy each section into PowerPoint**
+**11 slides total - Updated with Favors.id and honest framing**
 
 ---
 
@@ -12,7 +12,7 @@
 [CENTER: Your professional photo - circular crop]
 
 SIMON SMALUHN
-CEO & Multi-Venture Founder
+Co-Founder & CEO
 
 [Below: 5 company logos in horizontal row]
 AVEV.de | SeminarDesk.com | Favors.id | AkunIndo.id | Printora.ai
@@ -22,6 +22,7 @@ AVEV.de | SeminarDesk.com | Favors.id | AkunIndo.id | Printora.ai
 - Background: Professional blue (#2563EB)
 - Text: White
 - Photo: Circular, professional headshot
+- Title: **Co-Founder & CEO**
 - Logos: Small, equal size, aligned horizontally
 
 ---
@@ -47,33 +48,78 @@ Today: How to MEASURE the value
 
 ---
 
-## SLIDE 3: AKUNINDO - THE PROBLEM
+## SLIDE 3: FAVORS.ID - WORKING SOLUTION
+
+### Visual Layout:
+```
+[Left side - 40%]
+[Screenshot/mockup of Favors app]
+
+[Right side - 60%]
+
+FAVORS.ID
+Event Ticketing & Crowdsourcing Platform
+
+THE CHALLENGE:
+🎫 Tourism villages need event ticketing
+📱 Most systems too complex/expensive
+💰 High fees eat into small budgets
+
+OUR SOLUTION:
+✅ Simple event creation
+✅ Free & paid ticketing
+✅ Built-in crowdfunding for events
+✅ Community-driven discovery
+
+[Bottom banner - Blue]
+PERFECT FOR PINGE VILLAGE:
+Create tours as "events" → Sell tickets → Track bookings → Build community
+```
+
+### Design Notes:
+- App screenshot on left (if available, or use phone mockup)
+- Right side: Problem → Solution format
+- Emphasize RELEVANCE to Pinge Village
+- Bottom banner: Direct application for them
+- Color: Blue theme matching Favors brand
+
+**What to Say:**
+"Before I show you the theory, let me show you something you can use RIGHT NOW. Favors.id is our event ticketing platform. Pinge Village could use this TODAY to sell tour tickets, manage bookings, and build a community around your events. It's free to start, and designed for exactly your use case."
+
+---
+
+## SLIDE 4: AKUNINDO - CONCEPT (NOT TESTED YET)
 
 ### Visual Layout:
 ```
 ┌─────────────────────┬─────────────────────┐
-│     BEFORE          │       AFTER         │
+│   TRADITIONAL       │    WITH AI          │
 ├─────────────────────┼─────────────────────┤
-│ [Photo: Messy       │ [Screenshot:        │
+│ [Photo: Messy       │ [Mockup:            │
 │  paper receipts     │  AkunIndo app       │
 │  on desk]           │  clean interface]   │
 │                     │                     │
-│ ❌ 30 min/batch     │ ✅ 2 min with AI    │
-│ ❌ Manual entry     │ ✅ Auto categories  │
-│ ❌ Human errors     │ ✅ Zero errors      │
+│ ❌ 30+ min/batch    │ ✅ ~2 min target    │
+│ ❌ Manual entry     │ ✅ AI scan concept  │
+│ ❌ Human errors     │ ✅ Auto categories  │
 │ ❌ Lost receipts    │ ✅ Cloud backup     │
 └─────────────────────┴─────────────────────┘
 
-[Bottom banner]
-AkunIndo.id - AI Expense Tracker for Indonesian SMEs
+[Bottom banner - Orange/Warning color]
+⚠️ CONCEPT: AkunIndo AI Expense Tracker (launching soon)
+Target: Save 90%+ of bookkeeping time for Indonesian SMEs
 ```
 
 ### Design Notes:
 - Split screen: 50/50
 - Left side: Red tint (#FEE2E2)
 - Right side: Green tint (#D1FAE5)
-- Photos: Real screenshots if available
-- Clear visual contrast
+- **IMPORTANT:** Bottom banner clarifies this is a CONCEPT/TARGET
+- Use "~2 min target" not "2 min actual"
+- Use "concept" language throughout
+
+**What to Say:**
+"Here's what we're BUILDING with AkunIndo. We haven't launched yet, but this shows our HYPOTHESIS: if we can automate receipt scanning with AI, we could save Indonesian freelancers 90% of their bookkeeping time. From 30 minutes down to 2 minutes. That's the GOAL - and that's how you should think about AI for your village."
 
 ---
 
