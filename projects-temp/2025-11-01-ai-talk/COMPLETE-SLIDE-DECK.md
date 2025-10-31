@@ -123,70 +123,81 @@ Target: Save 90%+ of bookkeeping time for Indonesian SMEs
 
 ---
 
-## SLIDE 4: AKUNINDO - THE RESULTS
+## SLIDE 5: AKUNINDO - THE HYPOTHESIS
 
 ### Visual Layout:
 ```
-[CENTER - Massive number, 120pt font]
+[CENTER - Large, but not claiming it's proven]
 
-93%
-TIME SAVED
+OUR TARGET:
+90%+ Time Saved
 
-[Below - Medium, 48pt]
-30 minutes → 2 minutes
+[Below - Medium, 40pt]
+Traditional: 30 minutes
+With AI Goal: ~2 minutes
 
-[Below - Regular, 32pt]
-✅ Users found 15% unnecessary expenses
+[Below - Regular, 28pt]
+IF WE'RE RIGHT:
+✅ Users could find 10-20% unnecessary expenses
 ✅ Clear, measurable ROI
 ✅ Real business impact
 
-[Bottom right - Small]
+[Bottom right - Small, highlighted]
 For Pinge Village:
-Automate "What time is the tour?" with ChatGPT
+Same principle → Automate repetitive tasks
+Test with ONE task first (like FAQs)
 ```
 
 ### Design Notes:
 - Background: White
-- Main number: Bold green (#10B981)
-- Clock/stopwatch icon behind the 93%
-- Arrow (→) between times
-- Bottom tip in light blue box
+- Main text: "OUR TARGET" or "OUR HYPOTHESIS" (not claiming proven)
+- Use softer language: "could", "target", "goal"
+- Blue color (#2563EB) instead of green (since unproven)
+- Bottom tip emphasizes the PRINCIPLE, not the exact numbers
+
+**What to Say:**
+"This is our HYPOTHESIS. We think we can save 90% of time. We haven't proven it yet - we're still testing. But the PRINCIPLE is what matters for you: identify your most time-consuming task, think about how AI could automate it, then TEST it. Don't trust my numbers - run your own test!"
 
 ---
 
-## SLIDE 5: PRINTORA - DATA DRIVEN DECISIONS
+## SLIDE 6: PRINTORA - DATA CONCEPT
 
 ### Visual Layout:
 ```
 ┌────────────────────┬─────────────────────┐
-│   ❌ GUESSING      │    ✅ DATA          │
+│   ❌ GUESSING      │    ✅ WITH DATA     │
 ├────────────────────┼─────────────────────┤
 │                    │                     │
-│ "I think           │ 📊 40% drop         │
-│  customers         │    at payment       │
+│ "I think           │ 📊 Track dropout    │
+│  customers         │    points           │
 │  want..."          │                     │
-│                    │ 🔧 Fixed payment    │
-│ "Maybe we          │    process          │
+│                    │ 🔧 Fix the biggest  │
+│ "Maybe we          │    problem first    │
 │  should..."        │                     │
-│                    │ 📈 +25% sales       │
-│ "I hope this       │    increase         │
+│                    │ 📈 Measure the      │
+│ "I hope this       │    improvement      │
 │  works..."         │                     │
 │                    │                     │
 └────────────────────┴─────────────────────┘
 
 [Bottom banner - Blue background]
-Printora.ai - Track where visitors quit → Fix it → Increase sales
+Printora.ai - AI Design Platform (Concept)
+PRINCIPLE: Use data to make decisions, not guesses
 ```
 
 ### Design Notes:
 - Left: Gray background (#F3F4F6), confused emoji
 - Right: White background, charts/data icons
-- Use emoji for visual interest
-- Clear progression: Problem → Solution → Result
+- **Changed:** Don't claim specific numbers (40%, 25%)
+- Focus on the PRINCIPLE not specific results
+- Bottom banner: Emphasize the concept/principle
+
+**What to Say:**
+"With Printora, we're building an AI design platform. I don't have proven conversion numbers yet, but the PRINCIPLE is clear: track where people quit, fix that step, measure if it improved. For Pinge: you could track where visitors drop off in your booking process. Maybe it's payment, maybe it's language, maybe it's unclear pricing. Find the dropout point, fix it, measure the change."
 
 ---
 
-## SLIDE 6: FREE AI CREDITS
+## SLIDE 7: FREE AI CREDITS
 
 ### Visual Layout:
 ```
@@ -198,30 +209,34 @@ FREE AI CREDITS FOR STARTUPS
 ┌──────────────────────┬──────────────────────┐
 │  [Google Cloud logo] │    [AWS logo]        │
 │                      │                      │
-│    $200,000          │    $100,000          │
+│  Up to $200,000      │  Up to $100,000      │
 │  Free AI Credits     │  Free AI Credits     │
 └──────────────────────┴──────────────────────┘
 ┌──────────────────────┬──────────────────────┐
 │ [Microsoft logo]     │   [OpenAI logo]      │
 │                      │                      │
-│    $150,000          │   Grants Available   │
+│  Up to $150,000      │   Grants Available   │
 │  Free AI Credits     │   For Innovation     │
 └──────────────────────┴──────────────────────┘
 
 [Bottom banner - Green background]
-💡 AkunIndo received $25,000 from Google
-   = First year AI costs COVERED
+💡 Real programs, real money
+   Apply as "community tourism innovation"
+   Pinge Village is eligible!
 ```
 
 ### Design Notes:
 - Use actual company logos (download from brand sites)
-- Dollar amounts in BOLD
-- Bottom banner: Success story in green
+- "Up to" amounts (they vary by program)
+- Bottom banner: Focus on Pinge's eligibility
 - Keep logos in brand colors
+
+**What to Say:**
+"Here's something concrete: major tech companies give away free AI credits. Google, AWS, Microsoft, OpenAI - they all have programs. Amounts vary, but we're talking tens of thousands of dollars in free credits. Pinge Village could apply as a 'community tourism innovation project.' One person, 2 hours of applications, could save you $50,000+ in AI costs."
 
 ---
 
-## SLIDE 7: 3 ACTIONS FOR MONDAY
+## SLIDE 8: 3 ACTIONS FOR MONDAY
 
 ### Visual Layout:
 ```
@@ -239,6 +254,7 @@ What To Do Monday Morning
     • WhatsApp Business (free chatbot)
     • Google Forms (free surveys)
     • ChatGPT (free translations)
+    • Favors.id (free event ticketing)
     Cost: $0
 
 3️⃣  ASK ONE QUESTION
@@ -255,30 +271,31 @@ Start small. Measure everything. Use free tools.
   - 1️⃣ Blue (#2563EB)
   - 2️⃣ Green (#10B981)
   - 3️⃣ Orange (#F59E0B)
+- **Added:** Favors.id to free tools list
 - Bullet points for tools
 - Clear, actionable language
 - Bottom tagline in bold
 
 ---
 
-## SLIDE 8: THE ROI FORMULA
+## SLIDE 9: THE ROI FORMULA
 
 ### Visual Layout:
 ```
 [Title - 36pt]
-Simple ROI Calculation for Small Villages
+Simple ROI Calculation Example
 
 [CENTER - Receipt/invoice style box]
 
 ╔════════════════════════════════════╗
-║      ROI CALCULATION               ║
+║   EXAMPLE CALCULATION              ║
 ╠════════════════════════════════════╣
 ║                                    ║
-║ ⏰ Time Saved:                     ║
+║ ⏰ Time Saved (hypothetical):      ║
 ║    10 hours/week × $5/hour         ║
 ║    = $50/week                      ║
 ║                                    ║
-║ 📈 Extra Bookings:                 ║
+║ 📈 Extra Bookings (assumed):       ║
 ║    5 bookings/month × $30          ║
 ║    = $150/month                    ║
 ║                                    ║
@@ -286,24 +303,28 @@ Simple ROI Calculation for Small Villages
 ║    Free tools = $0                 ║
 ║                                    ║
 ╠════════════════════════════════════╣
-║ ✅ ANNUAL ROI: $4,200              ║
+║ ✅ POTENTIAL ROI: ~$4,200/year     ║
 ╚════════════════════════════════════╝
 
 [Bottom]
-You don't need expensive software.
-Free tools + measurement = Clear ROI
+Your numbers will be different!
+The FORMULA is what matters, not my example.
 ```
 
 ### Design Notes:
 - Box: Light blue background (#EFF6FF)
 - Border: Navy blue
-- Final number (4,200): BOLD green
+- **Changed:** "Example" and "hypothetical" language
+- "Potential" or "~$4,200" (approximate)
+- Bottom disclaimer: Emphasize it's an example
 - Calculator or money icon in corner
-- Clean, professional layout
+
+**What to Say:**
+"Here's an EXAMPLE calculation. These aren't real numbers - they're hypothetical. YOUR numbers will be different. But the formula is simple: what time did you save, what extra revenue did you generate, what did the tech cost. Track those three things and you'll know if it's working."
 
 ---
 
-## SLIDE 9: HUMAN + AI BALANCE
+## SLIDE 10: HUMAN + AI BALANCE
 
 ### Visual Layout:
 ```
@@ -339,7 +360,7 @@ ChatGPT just translates it to 50 languages 🌍
 
 ---
 
-## SLIDE 10: CLOSING & CONTACT
+## SLIDE 11: CLOSING & CONTACT
 
 ### Visual Layout:
 ```
@@ -354,25 +375,31 @@ USE FREE TOOLS
 
 [Your info section]
 SIMON SMALUHN
-CEO & Multi-Venture Founder
+Co-Founder & CEO
 
-📧 [your email]
-💼 linkedin.com/in/[your-profile]
+📧 [your email address]
+📱 WhatsApp: +49 177 777 97 49
+💼 linkedin.com/in/smaluhn
 
 [Bottom - Company websites]
-🌐 akunindo.id  |  printora.ai  |  favors.id
+🌐 favors.id  |  akunindo.id  |  printora.ai
    seminardesk.com  |  avev.de
 
 [Very bottom - Small italics]
-Let's connect after the event!
+Let's connect! Try Favors.id for your village events.
 ```
 
 ### Design Notes:
 - Background: Clean white or light gray
 - Top 3 lines: Bold, stacked, navy blue
 - Contact section: Professional, centered
+- **Updated:** Title is "Co-Founder & CEO"
+- **Updated:** Added WhatsApp: +49 177 777 97 49
+- **Updated:** LinkedIn is /smaluhn
+- **Updated:** Favors.id first in website list
 - Websites: Small, blue, clickable-looking
-- Include small icons (email, LinkedIn)
+- Include small icons (email, WhatsApp, LinkedIn)
+- **Added:** Call to action for Favors.id
 - Professional but approachable
 
 ---
@@ -439,46 +466,49 @@ White:           #FFFFFF
 
 ---
 
-## ⏱️ TIMING PER SLIDE (10 min total):
+## ⏱️ TIMING PER SLIDE (11 slides, 10 min total):
 
 | Slide | Time | Notes |
 |-------|------|-------|
 | 1. Intro | 0:30 | Quick intro |
 | 2. Problem | 0:30 | Set up the question |
-| 3. AkunIndo Problem | 1:00 | Tell the story |
-| 4. AkunIndo Results | 1:30 | Emphasize the numbers |
-| 5. Printora Data | 1:30 | Show data power |
-| 6. AI Credits | 1:00 | Quick wins available |
-| 7. 3 Actions | 2:00 | Most important slide |
-| 8. ROI Formula | 1:00 | Make it concrete |
-| 9. Human+AI | 1:00 | Emotional connection |
-| 10. Closing | 0:30 | Call to action + contact |
-| **TOTAL** | **10:30** | *Aim for 10:00* |
+| 3. **Favors.id** | **1:00** | **Show working solution they can use NOW** |
+| 4. AkunIndo Concept | 1:00 | Our hypothesis (not proven yet) |
+| 5. AkunIndo Target | 1:00 | The goal we're aiming for |
+| 6. Printora Principle | 1:00 | Data-driven decisions concept |
+| 7. AI Credits | 1:00 | Free resources available |
+| 8. 3 Actions | 2:00 | Most important slide |
+| 9. ROI Formula | 1:00 | Example calculation |
+| 10. Human+AI | 1:00 | Emotional connection |
+| 11. Closing | 0:30 | Call to action + contact |
+| **TOTAL** | **10:30** | *Aim for 10:00, buffer for questions* |
 
 ---
 
 ## 🎯 PRESENTATION TIPS:
 
 ### For Each Slide:
-- **Slide 1:** "Hi, I build tech companies. Today: proving AI value."
+- **Slide 1:** "Hi, I'm Simon, Co-Founder of several tech companies. Today: proving AI value."
 - **Slide 2:** "Everyone asks: Is AI worth it? Let me show you."
-- **Slide 3-4:** "Here's my Indonesian company, AkunIndo..."
-- **Slide 5:** "And Printora shows why DATA matters..."
-- **Slide 6:** "Best part? Tech companies GIVE money away..."
-- **Slide 7:** "What can YOU do Monday? Three things."
-- **Slide 8:** "Here's the simple math..."
-- **Slide 9:** "Remember: AI helps humans, doesn't replace them."
-- **Slide 10:** "Start small. Measure everything. Let's connect!"
+- **Slide 3:** "First, something you can use RIGHT NOW - Favors.id..."
+- **Slide 4-5:** "Here's what we're BUILDING with AkunIndo - our hypothesis..."
+- **Slide 6:** "And Printora shows the PRINCIPLE of data-driven decisions..."
+- **Slide 7:** "Best part? Tech companies GIVE money away..."
+- **Slide 8:** "What can YOU do Monday? Three things."
+- **Slide 9:** "Here's an EXAMPLE calculation - your numbers will differ..."
+- **Slide 10:** "Remember: AI helps humans, doesn't replace them."
+- **Slide 11:** "Start small. Measure everything. Try Favors.id. Let's connect!"
 
 ---
 
 ## 🚨 EMERGENCY BACKUP:
 
 If slides fail:
-1. You can tell AkunIndo story without slides
-2. Write "93%" on whiteboard
+1. Lead with Favors.id story (working product = credibility)
+2. Tell AkunIndo as hypothesis/concept
 3. Write "3 Actions" on paper
 4. You know your companies - just talk!
+5. Give out WhatsApp number for follow-up
 
 ---
 
