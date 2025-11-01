@@ -32,4 +32,4 @@ Thumbs.db
 
 
 # Ignore Smart Environment folder
-.smart-env
+.smart-env.claude/settings.local.json
