@@ -33,3 +33,10 @@ Thumbs.db
 
 # Ignore Smart Environment folder
 .smart-env.claude/settings.local.json
+
+# Productivity System
+.trash/
+triage/
+*.log
+tmp/
+.claude/settings.local.json

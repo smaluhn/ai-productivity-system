@@ -1,0 +1,26 @@
+projects:
+  akunindo: ["akunindo", "akun indo", "accounting"]
+  favos: ["favos", "favourse"]
+  printora: ["printora", "pod", "print"]
+  fundefi: ["fundefi", "fun defi", "defi"]
+  mindfool: ["mindfool", "mind fool"]
+
+areas:
+  health: ["health", "sleep", "exercise", "meditation"]
+  practice: ["practice", "meditation", "zhan zhuang"]
+
+resources:
+  research: ["paper", "study", "guide", "tutorial"]
+
+routes:
+  daily: "journal/daily/{YYYY}/{YYYY}-{MM}-{DD}.md"
+  weekly: "journal/weekly/{YYYY}/W{WW}.md"
+  monthly: "journal/monthly/{YYYY}/{YYYY}-{MM}.md"
+  project: "projects/{PROJECT}/{BASENAME}.md"
+  area: "docs/areas/{AREA}/{BASENAME}.md"
+  resource: "docs/resources/{RESOURCE}/{BASENAME}.md"
+  archive: "archives/inbox/{YYYY}/{BASENAME}"
+
+misc:
+  min_task_lines: 2
+  embed_tasks_into_daily: true

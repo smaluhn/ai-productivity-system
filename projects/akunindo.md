@@ -186,7 +186,7 @@
 ## Design
 
 ### Logo Redesign
-**Status:** Under review with Gilles (2025-10-24 meeting)
+**Status:** Delegated to Designer Gede - Waiting for delivery
 
 **Feedback from Jan:**
 - Keep "Ai" concept (good)
@@ -198,7 +198,7 @@
 - Unique blue shades (teal, indigo, sky, violet)
 - Multiple color combinations
 
-**Decision:** To be finalized in Gilles meeting
+**Next Steps:** Review Gede's designs when delivered
 
 ---
 
