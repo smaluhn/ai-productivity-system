@@ -38,6 +38,7 @@ def main():
   for root in args.paths:
     if not Path(root).exists(): continue
     for p in Path(root).rglob("*.md"):
+      if p.name == "INDEX.md": continue  # Skip auto-generated index files
       ok,msg = validate(p)
       if not ok: bad.append(msg)
   if bad:
