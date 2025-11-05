@@ -1,4 +1,4 @@
-.PHONY: daily weekly monthly sync rollup verify index validate inbox-scan inbox-apply inbox-apply-now
+.PHONY: daily weekly monthly sync rollup verify index validate inbox-scan inbox-apply inbox-apply-now clickup-sync clickup-explore clickup-test
 
 daily:
 	@scripts/new_daily.sh
@@ -32,3 +32,13 @@ inbox-apply:
 
 inbox-apply-now:
 	@python3 scripts/inbox_apply.py --apply
+
+# ClickUp Integration
+clickup-sync:
+	@python3 scripts/github_clickup_sync.py
+
+clickup-explore:
+	@python3 scripts/clickup_explore_workspace.py
+
+clickup-test:
+	@python3 scripts/clickup_test_connection.py
