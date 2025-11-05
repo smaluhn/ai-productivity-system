@@ -274,11 +274,19 @@ def main():
             output.append(format_task_line(task))
         output.append("")
 
-    # No due date (only show if it's their focus day project)
+    # No due date - show focus day project and personal tasks
     focus_tasks = [t for t in classified["no_due_date"] if get_project_from_list(t["list_name"]) == day_focus]
+    personal_tasks = [t for t in classified["no_due_date"] if get_project_from_list(t["list_name"]) == "Personal"]
+
     if focus_tasks:
         output.append(f"### 📋 {day_focus} Backlog")
         for task in focus_tasks[:5]:  # Limit to 5
+            output.append(format_task_line(task))
+        output.append("")
+
+    if personal_tasks:
+        output.append("### 📋 Personal Tasks")
+        for task in personal_tasks[:10]:  # Show up to 10 personal tasks
             output.append(format_task_line(task))
         output.append("")
 
@@ -298,6 +306,8 @@ def main():
             print(f"   🟡 {len(classified['this_week'])} due this week")
         if focus_tasks:
             print(f"   📋 {len(focus_tasks)} {day_focus} backlog tasks")
+        if personal_tasks:
+            print(f"   📋 {len(personal_tasks)} personal tasks")
     else:
         print("❌ Failed to insert into daily note")
         sys.exit(1)
