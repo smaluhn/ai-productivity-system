@@ -20,7 +20,7 @@ GITHUB_TO_CLICKUP = {
     "FUNDEdotFI/fundefi": {
         "clickup_dev_list": "FunDeFi",
         "clickup_ops_list": "FunDeFi Ops",
-        "github_project_number": 2,  # From fundefi-view.md
+        "github_project_number": None,  # Use regular issues instead
     },
 
     # FavOS
