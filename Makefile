@@ -42,3 +42,13 @@ clickup-explore:
 
 clickup-test:
 	@python3 scripts/clickup_test_connection.py
+
+clickup-today:
+	@python3 scripts/clickup_daily_fetch.py
+
+# Combined Workflows
+morning:
+	@scripts/new_daily.sh && python3 scripts/clickup_daily_fetch.py
+
+evening:
+	@scripts/verify-structure.sh && python3 scripts/validate_frontmatter.py
