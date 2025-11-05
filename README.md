@@ -1,18 +1,58 @@
 # Productivity System v2
 
-A unified PARA + journal + inbox-processing system.
+A unified productivity system integrating **ClickUp** (task management), PARA, journaling, and inbox processing.
 
-### Daily use
+## ✨ Single Source of Truth: ClickUp
+
+**All tasks live in ClickUp** and sync automatically to your daily notes via `make morning`.
+
+### Daily Workflow
 ```bash
-make daily
+# Morning: Sync tasks from ClickUp to today's note
+make morning
+
+# During the day: Work on tasks, update in ClickUp
+# - Open: https://app.clickup.com/25699608
+# - Update task status, add comments, check off completed
+
+# Evening: Validate and prepare for tomorrow
+make evening
+```
+
+### Old Inbox Processing (Still Available)
+```bash
 make inbox-scan && make inbox-tui && make inbox-apply-now && make inbox-learn
 make rollup index validate sync
 ```
 
+## 📋 ClickUp Integration
+
+**Workspace:** https://app.clickup.com/25699608
+
+### Lists & Structure
+- **Printora** - Mon/Thu/Sat focus days
+- **AkunIndo** - Tuesday focus day
+- **FunDeFi** - Wed/Fri focus days
+- **Simon** - Personal tasks with tags (#mindfulness-app, #life-admin, etc.)
+- **FavOS** - FavOS related tasks
+
+### Tags for Personal Projects
+- `#fundefi`, `#printora`, `#akunindo` - Project-specific
+- `#mindfulness-app` - Meditation app project
+- `#productivity-system` - This system's development
+- `#life-admin` - Personal errands
+- `#fundraising` - Investor outreach
+- `#learning` - Courses, books
+
+### Key Scripts
+- `scripts/clickup_daily_fetch.py` - Fetch tasks into daily note
+- `scripts/clickup_setup_personal_tasks.py` - Bulk assign/tag personal tasks
+- `scripts/process_all_to_clickup.py` - Process inbox → ClickUp
+
 ## Folder map
 - journal/ — daily, weekly, monthly logs
 - templates/ — note templates
-- scripts/ — all automations
-- inbox/ — drop new notes, screenshots, drafts
+- scripts/ — all automations (including ClickUp integration)
+- inbox/ — drop new notes, screenshots, drafts (auto-processes to ClickUp)
 - triage/ — AI suggestions for inbox routing
-- config/ — routing rules
+- config/ — routing rules, ClickUp configuration
