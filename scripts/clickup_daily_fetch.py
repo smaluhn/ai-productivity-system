@@ -141,11 +141,18 @@ def get_day_focus(date):
     return focus_map.get(weekday, "Unknown")
 
 def format_task_line(task):
-    """Format task as markdown checkbox with ClickUp ID"""
+    """Format task as markdown checkbox with tags and ClickUp ID"""
     task_id = task["id"]
     task_name = task["name"]
     list_name = task["list_name"]
     project = get_project_from_list(list_name)
+
+    # Get tags (for Simon's personal projects)
+    tags = task.get("tags", [])
+    tag_str = ""
+    if tags:
+        tag_names = [f"#{tag['name']}" for tag in tags]
+        tag_str = f"[{', '.join(tag_names)}] "
 
     # Get priority emoji
     priority = task.get("priority", {})
@@ -159,7 +166,11 @@ def format_task_line(task):
         elif "normal" in priority_name or priority.get("id") == "3":
             priority_emoji = "🟡 "
 
-    return f"- [ ] {priority_emoji}[{project}] {task_name} [CU-{task_id}]"
+    # For Simon's personal tasks, show tags instead of project
+    if project == "Personal" and tag_str:
+        return f"- [ ] {priority_emoji}{tag_str}{task_name} [CU-{task_id}]"
+    else:
+        return f"- [ ] {priority_emoji}[{project}] {task_name} [CU-{task_id}]"
 
 def insert_into_daily_note(date, tasks_text):
     """Insert tasks into daily note"""
