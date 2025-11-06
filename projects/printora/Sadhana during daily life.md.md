@@ -1,4 +1,4 @@
-Perfect — you’re now describing the _middle path of integration practice_: bridging sitting samādhi and real-life awareness.  
+Perfect — you’re now describing the _middle path of integration practice_: bridging sitting samādhi and real-life awareness.
 Here’s how to structure your **daytime practice** in this intermediate phase — practical, realistic, and fully compatible with Dzogchen–Mahamudra and Thanissaro Bhikkhu’s embodied Jhāna view.
 
 ---
@@ -55,7 +55,7 @@ Here’s how to practice without losing functionality or naturalness.
 - Gaze softly at the screen but feel that seeing and knowing are one field.
 - Don’t strain to “be mindful” — rather, recognize awareness already includes seeing, hearing, typing.
 
-> Use short reminders from your mindfulness timer app (every 15–30 min) as “bells of awareness.”  
+> Use short reminders from your mindfulness timer app (every 15–30 min) as “bells of awareness.”
 > At each bell: one deep breath, expand awareness, re-establish whole-body presence.
 
 ---
@@ -82,8 +82,8 @@ Here’s how to practice without losing functionality or naturalness.
 
 ### 6. **Summary Routine**
 
-**Morning / formal sit** → Whole-Body Jhāna → Rigpa  
-**Daytime** → Walking + Susokkan micro-breaks → Whole-Body awareness during tasks  
+**Morning / formal sit** → Whole-Body Jhāna → Rigpa
+**Daytime** → Walking + Susokkan micro-breaks → Whole-Body awareness during tasks
 **Evening** → Open awareness wind-down, light stretching or Zhan Zhuang
 
 ---
@@ -244,7 +244,6 @@ You can now see this as a single continuum:
 
 
 
-Would you like me to format this into a printable “Formal + Informal Daily Integration Guide” PDF, matching the style of your previous Jhāna guide? 
+Would you like me to format this into a printable “Formal + Informal Daily Integration Guide” PDF, matching the style of your previous Jhāna guide?
 
 _____
-

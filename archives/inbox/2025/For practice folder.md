@@ -24,10 +24,10 @@ Let’s update the card accordingly 👣
 1. Walk slowly and naturally, hands relaxed, eyes soft.
 2. **Count each step of one foot** (e.g. left) **from 1 → 10.**
 3. At _10_, immediately switch to **the other foot (right)** — start again from _1 → 10._
-    
-    > Example rhythm:  
+
+    > Example rhythm:
     > Left 1, Right 2, Left 3… Left 10 → then Right 1, Left 2, Right 3… Right 10 → then Left 1 again…
-    
+
 4. Keep attention on **the sole’s contact and the body’s flow.**
 5. Breath moves naturally with the rhythm; don’t force synchronization.
 

@@ -77,9 +77,9 @@ That’s an elegant, well-rounded rhythm — very much in the spirit of the _Tha
 ### 5. **Dedication & Integration (2–3 min)**
 
 - Dedicate the ease and clarity:
-    
+
     > “May this awareness benefit all beings.”
-    
+
 - Before rising, feel the same openness while moving fingers, adjusting posture.
 - Stand up slowly; keep awareness wide as you transition to ordinary activity.
 

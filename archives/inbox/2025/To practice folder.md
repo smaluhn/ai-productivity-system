@@ -108,6 +108,6 @@ _Now the practice shifts from doing to being — Mahamudra / Dzogchen mode._
 
 ---
 
-You can treat this as your daily rhythm:  
-**Susokkan → Whole-Body Jhāna → Stillness → Rigpa → Integration.**  
+You can treat this as your daily rhythm:
+**Susokkan → Whole-Body Jhāna → Stillness → Rigpa → Integration.**
 Effortful when scattered, effortless when serene — practice that adapts to life’s flow.
